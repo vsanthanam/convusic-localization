@@ -1,0 +1,34 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Open music streaming service links in a different music streaming service",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "Convusic is Active",
+        "description": "Large visible active title"
+    },
+    "no_service_description": {
+        "message": "No service configured",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "Links will be opened in",
+        "description": "Message when user has a service configured"
+    },
+    "open_button_description": {
+        "message": "Open in Convusic",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "Change Settings",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "Automatic Link Conversion Failed",
+        "description": "Failed conversion banner message"
+    }
+}

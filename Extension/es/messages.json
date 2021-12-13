@@ -1,0 +1,34 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Abre cualquier canción en cualquier aplicación",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "Convusic esta encendida",
+        "description": "Large visible active title"
+    },
+    "no_service_description": {
+        "message": "Necesita configuración",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "La música se abrirá en",
+        "description": "Message when user has a service configured"
+    },
+    "open_button_description": {
+        "message": "Abierta en Convusic",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "Cambiar Ajustes",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "Error de conversión de música",
+        "description": "Failed conversion banner message"
+    }
+}
