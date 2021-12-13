@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="stylesheet" href="../Style.css">
+    <script src="../Script.js" defer></script>
+</head>
+<body>
+    <div id="content-div">
+        <img src="../Icon.svg" width="128" height="128" alt="Convusic Icon">
+        <p class="state-unknown">Puede activar la extensión de Convusic en las preferencias de Extensiones de Safari.</p>
+        <p class="state-on">La extensión de Convusic está activada. Puede desactivarlo en las preferencias de Extensiones de Safari.</p>
+        <p class="state-off">La extensión de Convusic está desactivada. Puede activarlo en las preferencias de Extensiones de Safari.</p>
+        <button class="open-preferences">Salga y abrir Safari ...</button>
+        <p id="preferred-service-label">Mi Aplicación:
+            <select id="service-picker">
+                <option value="none">Ninguno</option>
+            </select>
+        </p>
+    </div>
+</body>
+</html>
