@@ -1,4 +1,4 @@
-### broadcasts-localization
+### Convusic-localization
 
 This is the community language repository for [Convusic](https://www.convusic.app).
 
@@ -6,7 +6,7 @@ If there is a language you'd like to see Convusic localized to but we haven't go
 
 Please do not add multiple languages in the same pull request — this way, there can be a discussion thread for each language for any changes or tweaks that need to be made, and give others opportunity for peer review.
 
-### Disk Structure
+### Structure
 Languages are structured in folders as such:
 
 `en.lproj/Localizable.strings`
