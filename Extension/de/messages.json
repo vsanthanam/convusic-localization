@@ -4,35 +4,35 @@
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "Abre cualquier canción en cualquier aplicación",
+        "message": "Öffne ein beliebiges Lied in einer beliebigen App",
         "description": "Description of what the extension does."
     },
     "popup_title": {
-        "message": "Convusic esta encendida",
+        "message": "Convus ist aktiviert",
         "description": "Large visible active title"
     },
     "no_service_description": {
-        "message": "Necesita configuración",
+        "message": "Keine app konfiguriert",
         "description": "Message when user has no service configured"
     },
     "service_active_description": {
-        "message": "La música se abrirá en",
+        "message": "Musik wird in",
         "description": "Message when user has a service configured"
     },
     "service_active_description_after": {
-        "message": "",
+        "message": "geöffnet",
         "description": "Message when user has a service configured"
     },
     "open_button_description": {
-        "message": "Abierta en Convusic",
+        "message": "In Convusic öffnen",
         "description": "Action button text"
     },
     "settings_button_description": {
-        "message": "Cambiar Ajustes",
+        "message": "Einstellungen ändern",
         "description": "Action button text"
     },
     "banner_failure": {
-        "message": "Error de conversión de música",
+        "message": "Konvertierung fehlgeschlagen",
         "description": "Failed conversion banner message"
     }
 }

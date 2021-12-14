@@ -19,6 +19,10 @@
         "message": "Links will be opened in",
         "description": "Message when user has a service configured"
     },
+    "service_active_description_after": {
+        "message": "",
+        "description": "Message when user has a service configured"
+    },
     "open_button_description": {
         "message": "Open in Convusic",
         "description": "Action button text"

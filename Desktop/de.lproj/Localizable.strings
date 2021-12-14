@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "Erweiterung";
+
+"WindowController.ConvertCTA" = "Konvertieren";
+
+"ConvertViewController.Placeholder" = "Geben Sie die URL eines Musikstreams ein und drücken Sie die Eingabetaste";
+
+"GeneralPreferencesViewController.Title" = "Allgemein";
+
+"GeneralPreferenceViewController.NoService" = "Keine";
+
+"GeneralPreferenceViewController.ServiceLabel" = "Mein Dienst:";
+
+"GeneralPreferenceViewController.CloudLabel" = "iCloud verwenden";
+
+"SupportPreferenceViewController.Title" = "Support";
+
+"SupportPreferenceViewController.EmailCTA" = "E-Mail";
+
+"SupportPreferenceViewController.PrivacyCTA" = "Datenschutz";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "Website";
