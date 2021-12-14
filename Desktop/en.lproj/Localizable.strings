@@ -20,7 +20,7 @@
 
 "GeneralPreferenceViewController.ServiceLabel" = "My Service:";
 
-"GeneralPreferenceViewController.CloudLabel" = "Uso iCloud";
+"GeneralPreferenceViewController.CloudLabel" = "Use iCloud";
 
 "SupportPreferenceViewController.Title" = "Support";
 
