@@ -29,7 +29,7 @@ Where you see a `%@` or `%ld` token, this denotes a value that is replaced at ru
 
 ###
 
-The Safari Extension is localized using JavaScript and works a bit differently. Each `messages.json` contains a single object for every localizable string. Keys must be shares across languages.
+The Safari Extension is localized using JavaScript and works a bit differently. Each `messages.json` contains a single object for every localizable string. Keys must be shares across languages. See the [MDN extension docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization) for more information on this format.
 
 ### Credits
 
