@@ -16,12 +16,14 @@
         "description": "Message when user has no service configured"
     },
     "service_active_description": {
-        "message": "Links will be opened in",
-        "description": "Message when user has a service configured"
-    },
-    "service_active_description_after": {
-        "message": "",
-        "description": "Message when user has a service configured"
+        "message": "Links will be opened in $service$",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
     },
     "open_button_description": {
         "message": "Open in Convusic",

@@ -16,12 +16,14 @@
         "description": "Message when user has no service configured"
     },
     "service_active_description": {
-        "message": "Musik wird in",
-        "description": "Message when user has a service configured"
-    },
-    "service_active_description_after": {
-        "message": "geöffnet",
-        "description": "Message when user has a service configured"
+        "message": "Musik wird in $service$ geöffnet",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
     },
     "open_button_description": {
         "message": "In Convusic öffnen",

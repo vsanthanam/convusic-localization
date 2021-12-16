@@ -1,0 +1,131 @@
+/* 
+  localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/10/21.
+  
+*/
+
+"WelcomeViewController.TitleOne" = "Choisissez votre application";
+
+"WelcomeViewController.StepOne" = "Dites-nous l'application de streaming de musique que vous préférez";
+
+"WelcomeViewController.TitleTwo" = "Activer l'extension";
+
+"WelcomeViewController.StepTwo" = "Autoriser Safari à utiliser l'extension de Convusic.";
+
+"WelcomeViewController.TitleThree" = "Ouvrir un lien";
+
+"WelcomeViewController.StepThree" = "Convusic acheminera automatiquement les liens musicaux vers l'application de votre choix.";
+
+"WelcomeViewController.CTA" = "Débuter";
+
+"CloudSetupViewController.Title" = "Utiliser iCloud ?";
+
+"CloudSetupViewController.Explain" = "Vos préférences seront synchronisées sur vos appareils avec iCloud";
+
+"CloudSetupViewController.CTA" = "Continuer";
+
+"CloudSetupViewController.Skip" = "Ne pas utiliser iCloud";
+
+"CloudSetupViewController.Alert.Title" = "Confirmer ?";
+
+"CloudSetupViewController.Alert.Message" = "Vous devrez sélectionner les préférences de votre service sur chaque nouvel appareil que vous configurez. Vous pourrez changer cela dans le menu des paramètres à tout moment.";
+
+"CloudSetupViewController.Alert.Cancel" = "Annuler";
+
+"CloudSetupViewController.Alert.Destructive" = "Continuer sans iCloud";
+
+"SetupViewController.Title" = "Débuter";
+
+"SetupViewController.CTA" = "Continuer avec %@";
+
+"SetupViewController.EmptyCTA" = "Continuer";
+
+"SetupViewController.Skip" = "Décider plus tard";
+
+"SetupViewController.Alert.Title" = "Confirmer ?";
+
+"SetupViewController.Alert.Message" = "L'extension Safari de Convusic doit savoir quelle application utiliser pour convertir automatiquement les liens. Vous pouvez toujours utiliser des liens de conversion, mais vous devrez ouvrir l'application et les saisons manuellement. Vous pouvez changer cela dans le menu des paramètres à tout moment.";
+
+"SetupViewController.Alert.Cancel" = "Annuler";
+
+"SetupViewController.Alert.Destructive" = "Continuer sans sélectionner";
+
+"InstructionsViewController.Title" = "Instructions";
+
+"InstructionStepDataSource.StepOne" = "Ouvrir l'application Réglages";
+
+"InstructionStepDataSource.StepTwo" = "Sélectionner Safari";
+
+"InstructionStepDataSource.StepThree" = "Sélectionner les extensions";
+
+"InstructionStepDataSource.StepFour" = "Sélectionner Convusic";
+
+"InstructionStepDataSource.StepFive" = "Allumer Convusic";
+
+"InstructionStepDataSource.StepSix" = "Activer tous les services de streaming";
+
+"MainViewController.ServiceCTA" = "Ouvrir dans %@";
+
+"MainViewController.InstructionsCTA" = "Instructions";
+
+"MainViewController.SettingsCTA" = "Paramètres";
+
+"MainViewController.Alert.Title" = "Échec de la conversion";
+
+"MainViewController.Alert.Action" = "OK";
+
+"MainViewController.Error.Title" = "Erreur";
+
+"MainViewController.Error.Message" = "Échec de conversion inconnu";
+
+"MainViewController.Error.Action" = "OK";
+
+"MainViewController.Offline" = "Convusic est hors-ligne";
+
+"MusicURLCell.Placeholder" = "Saisissez un collez une URL de streaming de musique";
+
+"SettingsViewController.Title" = "Paramètres";
+
+"SettingsViewController.Services.Title" = "Mon service musical";
+
+"SettingsViewController.Services.NoService" = "Aucun";
+
+"SettingsViewController.Options.Clipboard" = "Copier depuis le presse-papier";
+
+"SettingsViewController.Options.Cloud" = "Utiliser iCloud";
+
+"SettingsViewController.MoreCTA" = "Plus";
+
+"MoreViewController.Title" = "Plus";
+
+"MoreViewController.AcknowledgementsCTA" = "Remerciements";
+
+"MoreViewController.VersionInfo" = "Version";
+
+"MoreViewController.TwitterCTA" = "Twitter";
+
+"MoreViewController.EmailCTA" = "E-mail";
+
+"MoreViewController.PrivacyCTA" = "Condidentialité";
+
+"MoreViewController.WebsiteCTA" = "Site Web";
+
+"MoreViewController.ShareCTA" = "En parler à un ami";
+
+"MoreViewController.RateCTA" = "Noter et évaluer";
+
+"MoreViewController.Support.Title" = "Soutenir Convusic";
+
+"MoreViewController.Help.Title" = "Obtenir de l'aide";
+
+"MoreViewController.About.Title" = "À propos";
+
+"AcknowledgementsViewController.Title" = "Remerciements";
+
+"AcknowledgementsViewController.Tools.Title" = "Construit avec ces outils";
+
+"AcknowledgementsViewController.Services.Title" = "Fonctionne avec ces services";
+
+"AcknowledgementsViewController.Apps.Title" = "Inspiré par ces applications";
