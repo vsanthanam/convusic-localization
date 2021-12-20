@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   Convusic
 
@@ -29,3 +29,12 @@
 "SupportPreferenceViewController.PrivacyCTA" = "Privacidad";
 
 "SupportPreferenceViewControllerr.WebsiteCTA" = "Sitio web";
+
+"ExtensionViewController.FallbackDescription" = "Puede activar la extensión de Convusic en las preferencias de Extensiones de Safari.";
+
+"ExtensionViewController.EnabledDescription" = "La extensión de Convusic está activada. Puede desactivarlo en las preferencias de Extensiones de Safari.";
+
+"ExtensionViewController.DisabledDescription" = "La extensión de Convusic está desactivada. Puede activarlo en las preferencias de Extensiones de Safari.";
+
+"ExtensionViewController.SafariCTA" = "Salga y abrir Safari…";
+
