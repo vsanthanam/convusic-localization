@@ -29,3 +29,11 @@
 "SupportPreferenceViewController.PrivacyCTA" = "Privacy";
 
 "SupportPreferenceViewControllerr.WebsiteCTA" = "Website";
+
+"ExtensionViewController.FallbackDescription" = "You can turn on Convusic’s extension in Safari Extensions preferences.";
+
+"ExtensionViewController.EnabledDescription" = "Convusic’s extension is currently on. You can turn it off in Safari Extensions preferences.";
+
+"ExtensionViewController.DisabledDescription" = "Convusic’s extension is currently off. You can turn it on in Safari Extensions preferences.";
+
+"ExtensionViewController.SafariCTA" = "Quit and Open Safari Extensions Preferences…";
