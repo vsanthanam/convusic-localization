@@ -1,0 +1,40 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "他の音楽ストリーミングサービスで音楽ストリーミングサービスリンクを開く",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "Convusicを使用中です",
+        "description": "サービスが構成されていません"
+    },
+    "no_service_description": {
+        "message": "No service configured",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "リンクは$service$で開きます ",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
+    },
+    "open_button_description": {
+        "message": "Convusicで開く",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "設定を変更",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "リンクの自動変換に失敗しました",
+        "description": "Failed conversion banner message"
+    }
+}
