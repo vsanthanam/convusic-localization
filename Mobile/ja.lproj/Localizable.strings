@@ -1,0 +1,131 @@
+/* 
+  localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/10/21.
+  
+*/
+
+"WelcomeViewController.TitleOne" = "アプリを選択";
+
+"WelcomeViewController.StepOne" = "使用する音楽ストリーミングアプリを教えてください。";
+
+"WelcomeViewController.TitleTwo" = "拡張機能を有効に設定";
+
+"WelcomeViewController.StepTwo" = "SafariによるConvusicの拡張機能の使用を許可します。";
+
+"WelcomeViewController.TitleThree" = "リンクを開く";
+
+"WelcomeViewController.StepThree" = "Convusicは、音楽のリンクを選択したアプリに自動転送します。";
+
+"WelcomeViewController.CTA" = "はじめる";
+
+"CloudSetupViewController.Title" = "iCloudを使用しますか？";
+
+"CloudSetupViewController.Explain" = "環境設定はiCloud経由ですべてのデバイスに同期されます";
+
+"CloudSetupViewController.CTA" = "続ける";
+
+"CloudSetupViewController.Skip" = "iCloudを使用しない";
+
+"CloudSetupViewController.Alert.Title" = "この操作を続けますか？";
+
+"CloudSetupViewController.Alert.Message" = "設定する新しいデバイスすべてでサービスの環境設定を選択する必要があります。この設定は、いつでも「設定」で変更できます。";
+
+"CloudSetupViewController.Alert.Cancel" = "キャンセル";
+
+"CloudSetupViewController.Alert.Destructive" = "iCloudを使用せずに続ける";
+
+"SetupViewController.Title" = "はじめる";
+
+"SetupViewController.CTA" = "%@で続ける";
+
+"SetupViewController.EmptyCTA" = "続ける";
+
+"SetupViewController.Skip" = "あとで決める";
+
+"SetupViewController.Alert.Title" = "この操作を続けますか？";
+
+"SetupViewController.Alert.Message" = "ConvusicのSafari拡張機能は、リンクを自動変換するため、お使いになるアプリの情報を必要としています。リンクを変換することはできますが、アプリを開いて手動で入力いただく必要があります。この設定は、いつでも「設定」で変更できます。";
+
+"SetupViewController.Alert.Cancel" = "キャンセル";
+
+"SetupViewController.Alert.Destructive" = "選択せずに続ける";
+
+"InstructionsViewController.Title" = "手順";
+
+"InstructionStepDataSource.StepOne" = "「設定」アプリを開きます";
+
+"InstructionStepDataSource.StepTwo" = "Safariを選択します";
+
+"InstructionStepDataSource.StepThree" = "拡張機能を選択します";
+
+"InstructionStepDataSource.StepFour" = "Convusicを選択します";
+
+"InstructionStepDataSource.StepFive" = "Convusicをオンにします";
+
+"InstructionStepDataSource.StepSix" = "ストリーミングサービスをすべて有効に設定します";
+
+"MainViewController.ServiceCTA" = "%@で開きます";
+
+"MainViewController.InstructionsCTA" = "手順";
+
+"MainViewController.SettingsCTA" = "設定";
+
+"MainViewController.Alert.Title" = "変換に失敗しました";
+
+"MainViewController.Alert.Action" = "OK";
+
+"MainViewController.Error.Title" = "エラー";
+
+"MainViewController.Error.Message" = "不明な変換エラー";
+
+"MainViewController.Error.Action" = "OK";
+
+"MainViewController.Offline" = "Convusicがオフラインです";
+
+"MusicURLCell.Placeholder" = "音楽ストリーミングURLを入力するか貼り付けます";
+
+"SettingsViewController.Title" = "設定";
+
+"SettingsViewController.Services.Title" = "マイ音楽サービス";
+
+"SettingsViewController.Services.NoService" = "なし";
+
+"SettingsViewController.Options.Clipboard" = "クリップボードからコピー";
+
+"SettingsViewController.Options.Cloud" = "iCloudを使用";
+
+"SettingsViewController.MoreCTA" = "さらに表示";
+
+"MoreViewController.Title" = "さらに表示";
+
+"MoreViewController.AcknowledgementsCTA" = "Acknowledgements";
+
+"MoreViewController.VersionInfo" = "バージョン";
+
+"MoreViewController.TwitterCTA" = "Twitter";
+
+"MoreViewController.EmailCTA" = "メールアドレス";
+
+"MoreViewController.PrivacyCTA" = "プライバシー";
+
+"MoreViewController.WebsiteCTA" = "ウェブサイト";
+
+"MoreViewController.ShareCTA" = "友達に伝える";
+
+"MoreViewController.RateCTA" = "評価＆レビュー";
+
+"MoreViewController.Support.Title" = "Convusicをサポート";
+
+"MoreViewController.Help.Title" = "ヘルプ";
+
+"MoreViewController.About.Title" = "バージョン情報";
+
+"AcknowledgementsViewController.Title" = "Acknowledgements";
+
+"AcknowledgementsViewController.Tools.Title" = "作成に使用されたツール";
+
+"AcknowledgementsViewController.Services.Title" = "提供元サービス";
+
+"AcknowledgementsViewController.Apps.Title" = "インスピレーションとなったアプリ";
