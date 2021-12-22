@@ -30,10 +30,10 @@
 
 "SupportPreferenceViewControllerr.WebsiteCTA" = "Site Web";
 
-"ExtensionViewController.FallbackDescription" = "Vous pouvez activer l'extension de Convusic dans les préférences des extensions Safari.";
+"ExtensionViewController.FallbackDescription" = "Vous pouvez activer l'extension Convusic depuis les préférences des extensions de Safari.";
 
-"ExtensionViewController.EnabledDescription" = "L'extension de Convusic est actuellement activée. Vous pouvez le désactiver dans les préférences des extensions Safari.";
+"ExtensionViewController.EnabledDescription" = "L'extension Convusic est actuellement activée. Vous pouvez la désactiver depuis les préférences des extensions de Safari.";
 
-"ExtensionViewController.DisabledDescription" = "L'extension de Convusic est actuellement désactivée. Vous pouvez l'activer dans les préférences des extensions Safari.";
+"ExtensionViewController.DisabledDescription" = "L'extension Convusic est actuellement désactivée. Vous pouvez l'activer depuis les préférences des extensions de Safari.";
 
-"ExtensionViewController.SafariCTA" = "Quitter et ouvrir Safari…";
+"ExtensionViewController.SafariCTA" = "Quitter et ouvrir les préférences des extensions de Safari…";

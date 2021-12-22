@@ -12,11 +12,11 @@
         "description": "Large visible active title"
     },
     "no_service_description": {
-        "message": "Aucune application musicale n'est configurée",
+        "message": "Aucun service configuré",
         "description": "Message when user has no service configured"
     },
     "service_active_description": {
-        "message": "La musique sera ouverte dans $service$",
+        "message": "Les liens seront ouverts dans $service$",
         "description": "Message when user has a service configured",
         "placeholders": {
             "service": {
@@ -30,11 +30,11 @@
         "description": "Action button text"
     },
     "settings_button_description": {
-        "message": "Modifier les paramètres",
+        "message": "Modifier les réglages",
         "description": "Action button text"
     },
     "banner_failure": {
-        "message": "Échec de la conversion musicale",
+        "message": "Le lien de conversion automatique a échoué",
         "description": "Failed conversion banner message"
     }
 }

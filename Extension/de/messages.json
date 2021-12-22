@@ -4,19 +4,19 @@
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "Öffne ein beliebiges Lied in einer beliebigen App",
+        "message": "Links von Musik-Streaming-Diensten in einem anderen Musik-Streaming-Dienst öffnen",
         "description": "Description of what the extension does."
     },
     "popup_title": {
-        "message": "Convus ist aktiviert",
+        "message": "Convusic ist aktiviert",
         "description": "Large visible active title"
     },
     "no_service_description": {
-        "message": "Keine app konfiguriert",
+        "message": "Kein Dienst konfiguriert",
         "description": "Message when user has no service configured"
     },
     "service_active_description": {
-        "message": "Musik wird in $service$ geöffnet",
+        "message": "Links werden in $service$ geöffnet",
         "description": "Message when user has a service configured",
         "placeholders": {
             "service": {
@@ -34,7 +34,7 @@
         "description": "Action button text"
     },
     "banner_failure": {
-        "message": "Konvertierung fehlgeschlagen",
+        "message": "Automatische Linkkonvertierung fehlgeschlagen",
         "description": "Failed conversion banner message"
     }
 }
