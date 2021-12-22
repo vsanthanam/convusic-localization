@@ -84,7 +84,7 @@
 
 "MainViewController.Offline" = "Convusic est hors-ligne";
 
-"MusicURLCell.Placeholder" = "Saisissez un collez une URL de streaming de musique";
+"MusicURLCell.Placeholder" = "Saisissez ou collez une URL de streaming de musique";
 
 "SettingsViewController.Title" = "Paramètres";
 
@@ -108,7 +108,7 @@
 
 "MoreViewController.EmailCTA" = "E-mail";
 
-"MoreViewController.PrivacyCTA" = "Condidentialité";
+"MoreViewController.PrivacyCTA" = "Confidentialité";
 
 "MoreViewController.WebsiteCTA" = "Site Web";
 
@@ -124,7 +124,7 @@
 
 "AcknowledgementsViewController.Title" = "Remerciements";
 
-"AcknowledgementsViewController.Tools.Title" = "Construit avec ces outils";
+"AcknowledgementsViewController.Tools.Title" = "Développé avec ces outils";
 
 "AcknowledgementsViewController.Services.Title" = "Fonctionne avec ces services";
 
