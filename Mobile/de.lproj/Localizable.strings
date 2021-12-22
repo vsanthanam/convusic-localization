@@ -54,6 +54,8 @@
 
 "InstructionsViewController.Title" = "Anleitung";
 
+"InstructionsViewController.Done" = "Done";
+
 "InstructionStepDataSource.StepOne" = "Die App „Einstellungen“ öffnen";
 
 "InstructionStepDataSource.StepTwo" = "Safari auswählen";

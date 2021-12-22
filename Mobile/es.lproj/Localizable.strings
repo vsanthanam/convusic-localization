@@ -1,4 +1,4 @@
-/* 
+/*
   localizable.strings
   Convusic
 
@@ -53,6 +53,8 @@
 "SetupViewController.Alert.Destructive" = "Continuar sin elegir";
 
 "InstructionsViewController.Title" = "Instrucciones";
+
+"InstructionsViewController.Done" = "Done";
 
 "InstructionStepDataSource.StepOne" = "Abre la aplicación de configuración";
 

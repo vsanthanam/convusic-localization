@@ -54,6 +54,8 @@
 
 "InstructionsViewController.Title" = "Instructions";
 
+"InstructionsViewController.Done" = "Done";
+
 "InstructionStepDataSource.StepOne" = "Ouvrir l'application Réglages";
 
 "InstructionStepDataSource.StepTwo" = "Sélectionner Safari";
