@@ -1,0 +1,40 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Abra as ligações de serviço de transmissão de música num serviço de transmissão de música diferente",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "A Convusic está Ativa",
+        "description": "Large visible active title"
+    },
+    "no_service_description": {
+        "message": "Nenhum serviço configurado",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "As ligações serão abertas em $service$",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
+    },
+    "open_button_description": {
+        "message": "Abrir na Convusic",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "Alterar Configurações",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "Falhou a Conversão Automática da Ligação",
+        "description": "Failed conversion banner message"
+    }
+}
