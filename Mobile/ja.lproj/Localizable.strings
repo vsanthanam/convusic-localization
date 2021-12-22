@@ -54,6 +54,8 @@
 
 "InstructionsViewController.Title" = "手順";
 
+"InstructionsViewController.Done" = "Done";
+
 "InstructionStepDataSource.StepOne" = "「設定」アプリを開きます";
 
 "InstructionStepDataSource.StepTwo" = "Safariを選択します";
