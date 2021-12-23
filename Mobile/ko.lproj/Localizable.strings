@@ -1,0 +1,133 @@
+/* 
+  localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/10/21.
+  
+*/
+
+"WelcomeViewController.TitleOne" = "앱을 선택하세요";
+
+"WelcomeViewController.StepOne" = "사용하고자 하는 음악 스트리밍 앱을 말씀해주세요.";
+
+"WelcomeViewController.TitleTwo" = "확장 프로그램 활성화";
+
+"WelcomeViewController.StepTwo" = "Safari가 Convusic 확장 프로그램을 사용하도록 허용해주세요.";
+
+"WelcomeViewController.TitleThree" = "링크 열기";
+
+"WelcomeViewController.StepThree" = "Convusic이 자동으로 음악 링크를 선택한 앱으로 라우팅 합니다.";
+
+"WelcomeViewController.CTA" = "시작하기";
+
+"CloudSetupViewController.Title" = "iCloud를 사용하시겠습니까?";
+
+"CloudSetupViewController.Explain" = "환경 설정이 iCloud를 통해 기기 전체로 동기화됩니다";
+
+"CloudSetupViewController.CTA" = "계속";
+
+"CloudSetupViewController.Skip" = "iCloud 사용하지 않기";
+
+"CloudSetupViewController.Alert.Title" = "정말로 그렇게 하시겠습니까?";
+
+"CloudSetupViewController.Alert.Message" = "설정한 모든 새 기기에서 서비스 환경 설정을 선택해야 합니다. 언제라도 설정 메뉴에서 이를 변경할 수 있습니다.";
+
+"CloudSetupViewController.Alert.Cancel" = "취소";
+
+"CloudSetupViewController.Alert.Destructive" = "iCloud 없이 계속하기";
+
+"SetupViewController.Title" = "시작하기";
+
+"SetupViewController.CTA" = "%@(으)로 계속하기";
+
+"SetupViewController.EmptyCTA" = "계속";
+
+"SetupViewController.Skip" = "나중에 결정";
+
+"SetupViewController.Alert.Title" = "정말로 그렇게 하시겠습니까?";
+
+"SetupViewController.Alert.Message" = "자동으로 링크를 전환하려면 어떤 앱을 사용할 것인지 Convusic Safari 확장 프로그램이 알아야 합니다. 계속해서 전환 링크를 설정할 수는 있지만 앱을 열어 수동으로 입력해야 합니다. 언제라도 설정 메뉴에서 이를 변경할 수 있습니다.";
+
+"SetupViewController.Alert.Cancel" = "취소";
+
+"SetupViewController.Alert.Destructive" = "선택 없이 계속하기";
+
+"InstructionsViewController.Title" = "지시";
+
+"InstructionsViewController.Done" = "Done";
+
+"InstructionStepDataSource.StepOne" = "설정 앱 열기";
+
+"InstructionStepDataSource.StepTwo" = "Safari 선택";
+
+"InstructionStepDataSource.StepThree" = "확장 프로그램 선택";
+
+"InstructionStepDataSource.StepFour" = "Convusic 선택";
+
+"InstructionStepDataSource.StepFive" = "Convusic 켜기";
+
+"InstructionStepDataSource.StepSix" = "모든 스트리밍 서비스 활성화";
+
+"MainViewController.ServiceCTA" = "%@에서 열기";
+
+"MainViewController.InstructionsCTA" = "지시";
+
+"MainViewController.SettingsCTA" = "설정";
+
+"MainViewController.Alert.Title" = "전환 실패";
+
+"MainViewController.Alert.Action" = "확인";
+
+"MainViewController.Error.Title" = "오류";
+
+"MainViewController.Error.Message" = "알 수 없는 전환 실패";
+
+"MainViewController.Error.Action" = "확인";
+
+"MainViewController.Offline" = "Convusic이 오프라인 상태입니다";
+
+"MusicURLCell.Placeholder" = "음악 스트리밍 URL을 입력 또는 붙여넣기 하세요";
+
+"SettingsViewController.Title" = "설정";
+
+"SettingsViewController.Services.Title" = "내 음악 서비스";
+
+"SettingsViewController.Services.NoService" = "없음";
+
+"SettingsViewController.Options.Clipboard" = "클립보드에서 복사";
+
+"SettingsViewController.Options.Cloud" = "iCloud 사용하기";
+
+"SettingsViewController.MoreCTA" = "더보기";
+
+"MoreViewController.Title" = "더보기";
+
+"MoreViewController.AcknowledgementsCTA" = "승인";
+
+"MoreViewController.VersionInfo" = "버전";
+
+"MoreViewController.TwitterCTA" = "Twitter";
+
+"MoreViewController.EmailCTA" = "이메일";
+
+"MoreViewController.PrivacyCTA" = "개인정보보호";
+
+"MoreViewController.WebsiteCTA" = "웹사이트";
+
+"MoreViewController.ShareCTA" = "친구에게 말하기";
+
+"MoreViewController.RateCTA" = "평가 및 의견";
+
+"MoreViewController.Support.Title" = "Convusic 지원하기";
+
+"MoreViewController.Help.Title" = "도움말";
+
+"MoreViewController.About.Title" = "정보";
+
+"AcknowledgementsViewController.Title" = "승인";
+
+"AcknowledgementsViewController.Tools.Title" = "다음의 툴로 구축됨";
+
+"AcknowledgementsViewController.Services.Title" = "다음의 서비스가 지원함";
+
+"AcknowledgementsViewController.Apps.Title" = "영감을 얻은 앱";

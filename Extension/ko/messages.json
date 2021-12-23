@@ -1,0 +1,40 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "다른 음악 스트리밍 서비스에서 음악 스트리밍 서비스 링크를 여세요",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "Convusic이 활성화 되었습니다",
+        "description": "Large visible active title"
+    },
+    "no_service_description": {
+        "message": "설정된 서비스 없음",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "링크가 $service$에서 열립니다",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
+    },
+    "open_button_description": {
+        "message": "Convusic에서 열기",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "설정 변경",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "자동 링크 전환 실패",
+        "description": "Failed conversion banner message"
+    }
+}
