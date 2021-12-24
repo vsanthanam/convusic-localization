@@ -1,0 +1,198 @@
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "0Gv-cO-jyB"; */
+"0Gv-cO-jyB.title" = "실행 복귀";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "1OB-zh-Aeq"; */
+"1OB-zh-Aeq.title" = "맞춤법 및 문법 검사";
+
+/* Class = "NSMenuItem"; title = "Convusic"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Convusic";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "2LF-Ve-gpO"; */
+"2LF-Ve-gpO.title" = "말하기";
+
+/* Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "2ZS-57-qEF"; */
+"2ZS-57-qEF.title" = "사이드바 보기";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "3jW-Y7-bUC"; */
+"3jW-Y7-bUC.title" = "다음 찾기";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "4HQ-O7-QRv"; */
+"4HQ-O7-QRv.title" = "삭제";
+
+/* Class = "NSMenuItem"; title = "Quit Convusic"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Convusic 종료";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "5J6-OO-fz3"; */
+"5J6-OO-fz3.title" = "스마트 복사하기/붙여넣기";
+
+/* Class = "NSMenuItem"; title = "About Convusic"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Convusic 소개";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "5rO-Vf-zv6"; */
+"5rO-Vf-zv6.title" = "맞춤법";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "6C1-fU-J9V"; */
+"6C1-fU-J9V.title" = "맞춤법 및 문법 보기";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "6Hz-m1-6Jh"; */
+"6Hz-m1-6Jh.title" = "대체 보기";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "6Ot-KZ-UML"; */
+"6Ot-KZ-UML.title" = "대체";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "6ZJ-Ww-LOB"; */
+"6ZJ-Ww-LOB.title" = "복사하기";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "7et-3v-roX"; */
+"7et-3v-roX.title" = "최소화";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "8jh-ur-cox"; */
+"8jh-ur-cox.title" = "스마트 링크";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "8kn-gg-OHy"; */
+"8kn-gg-OHy.title" = "말하기 중단";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "9ku-00-6Df"; */
+"9ku-00-6Df.title" = "대치 및 찾기...";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "메인 메뉴";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "BmZ-cA-NZy"; */
+"BmZ-cA-NZy.title" = "윈도우";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "BrD-jg-sxF"; */
+"BrD-jg-sxF.title" = "윈도우";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "CHu-Lx-bjD"; */
+"CHu-Lx-bjD.title" = "스마트 대시";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "EEV-1f-DXg"; */
+"EEV-1f-DXg.title" = "말하기 시작";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "도움말";
+
+/* Class = "NSMenuItem"; title = "Convusic Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Convusic 도움말";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "HA0-aO-CLq"; */
+"HA0-aO-CLq.title" = "모두 앞으로 가져오기";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "HnS-aq-2HX"; */
+"HnS-aq-2HX.title" = "이전 찾기";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "KEX-Ab-FyW"; */
+"KEX-Ab-FyW.title" = "찾기";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "모든 탭 보기";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "Lzh-xd-w1I"; */
+"Lzh-xd-w1I.title" = "말하기";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "MqA-b0-aKV"; */
+"MqA-b0-aKV.title" = "도구 막대 보기";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "NgU-PK-B6J"; */
+"NgU-PK-B6J.title" = "대문자로 시작";
+
+/* Class = "NSMenuItem"; title = "Hide Convusic"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Convusic 숨기기";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "PJ4-Oz-SSB"; */
+"PJ4-Oz-SSB.title" = "환경설정";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "PiF-CE-q6H"; */
+"PiF-CE-q6H.title" = "선택 항목으로 이동";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "RPP-WR-Yyf"; */
+"RPP-WR-Yyf.title" = "찾기...";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "TUq-Lq-uDm"; */
+"TUq-Lq-uDm.title" = "편집";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "다른 사람 숨기기";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "XRg-c8-YsK"; */
+"XRg-c8-YsK.title" = "데이터 탐색기";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "YWB-SZ-sdt"; */
+"YWB-SZ-sdt.title" = "지금 문서 검사";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "aSk-5r-6wj"; */
+"aSk-5r-6wj.title" = "대체";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "b3K-xp-Rsr"; */
+"b3K-xp-Rsr.title" = "입력하는 동안 맞춤법 검사";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "bk9-fN-Dcd"; */
+"bk9-fN-Dcd.title" = "스마트 인용";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "dYa-fR-8IP"; */
+"dYa-fR-8IP.title" = "텍스트 대치";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "eHy-CS-Fja"; */
+"eHy-CS-Fja.title" = "변형";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "fGX-lT-wMj"; */
+"fGX-lT-wMj.title" = "소문자로 만들기";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "h4S-l9-bUy"; */
+"h4S-l9-bUy.title" = "전체 화면 시작";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "hVQ-ri-WRx"; */
+"hVQ-ri-WRx.title" = "보기";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "hm4-uB-6mV"; */
+"hm4-uB-6mV.title" = "맞춤법 자동 수정";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "hmj-so-8qL"; */
+"hmj-so-8qL.title" = "대문자로 만들기";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "hod-cx-Xfy"; */
+"hod-cx-Xfy.title" = "변형";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "hvE-3X-NTl"; */
+"hvE-3X-NTl.title" = "찾기";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "iM6-Rp-ZYK"; */
+"iM6-Rp-ZYK.title" = "붙여넣기";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "iek-9H-DWz"; */
+"iek-9H-DWz.title" = "편집";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "kdw-Bt-DQn"; */
+"kdw-Bt-DQn.title" = "확대/축소";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "lmk-Nb-x67"; */
+"lmk-Nb-x67.title" = "실행 취소";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "p46-yr-21k"; */
+"p46-yr-21k.title" = "보기";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "pEq-Yp-25L"; */
+"pEq-Yp-25L.title" = "맞춤법 및 문법";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "paX-Qu-WOi"; */
+"paX-Qu-WOi.title" = "스타일 붙여넣기 및 일치";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "pfG-FA-Lvg"; */
+"pfG-FA-Lvg.title" = "찾기에 선택 사용";
+
+/* Class = "NSMenu"; title = "Convusic"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Convusic";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "도움말";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "xEb-33-fHe"; */
+"xEb-33-fHe.title" = "오려두기";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "zJq-m7-etN"; */
+"zJq-m7-etN.title" = "도구 막대 사용자화...";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "zZq-bg-bUB"; */
+"zZq-bg-bUB.title" = "전체 선택";
