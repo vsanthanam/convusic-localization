@@ -1,4 +1,4 @@
-### Convusic-localization
+### Convusic Localization
 
 This is the community language repository for [Convusic](https://www.convusic.app).
 
