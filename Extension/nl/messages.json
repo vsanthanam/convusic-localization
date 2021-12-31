@@ -1,0 +1,40 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Links voor muziek-streamingdienst openen in een andere dienst voor het streamen van muziek.",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "Convusic is actief",
+        "description": "Large visible active title"
+    },
+    "no_service_description": {
+        "message": "Geen dienst geconfigureerd",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "Links worden geopend in $service$",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
+    },
+    "open_button_description": {
+        "message": "In Convusic openen",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "Instellingen wijzigen",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "Automatische linkconversie mislukt",
+        "description": "Failed conversion banner message"
+    }
+}
