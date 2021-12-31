@@ -1,0 +1,198 @@
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "0Gv-cO-jyB"; */
+"0Gv-cO-jyB.title" = "Ripristina";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "1OB-zh-Aeq"; */
+"1OB-zh-Aeq.title" = "Controlla grammatica insieme all'ortografia";
+
+/* Class = "NSMenuItem"; title = "Convusic"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Convusic";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "2LF-Ve-gpO"; */
+"2LF-Ve-gpO.title" = "Voce";
+
+/* Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "2ZS-57-qEF"; */
+"2ZS-57-qEF.title" = "Mostra barra laterale";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "3jW-Y7-bUC"; */
+"3jW-Y7-bUC.title" = "Cerca successivo";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "4HQ-O7-QRv"; */
+"4HQ-O7-QRv.title" = "Elimina";
+
+/* Class = "NSMenuItem"; title = "Quit Convusic"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Esci da Convusic";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "5J6-OO-fz3"; */
+"5J6-OO-fz3.title" = "Copia/incolla smart";
+
+/* Class = "NSMenuItem"; title = "About Convusic"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Informazioni su Convusic";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "5rO-Vf-zv6"; */
+"5rO-Vf-zv6.title" = "Ortografia";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "6C1-fU-J9V"; */
+"6C1-fU-J9V.title" = "Mostra ortografia e grammatica";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "6Hz-m1-6Jh"; */
+"6Hz-m1-6Jh.title" = "Mostra sostituzioni";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "6Ot-KZ-UML"; */
+"6Ot-KZ-UML.title" = "Sostituzioni";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "6ZJ-Ww-LOB"; */
+"6ZJ-Ww-LOB.title" = "Copia";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "7et-3v-roX"; */
+"7et-3v-roX.title" = "Minimizzare";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "8jh-ur-cox"; */
+"8jh-ur-cox.title" = "Link smart";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "8kn-gg-OHy"; */
+"8kn-gg-OHy.title" = "Interrompi riproduzione";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "9ku-00-6Df"; */
+"9ku-00-6Df.title" = "Sostituisci e cerca…";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Menu principale";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "BmZ-cA-NZy"; */
+"BmZ-cA-NZy.title" = "Finestra";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "BrD-jg-sxF"; */
+"BrD-jg-sxF.title" = "Finestra";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "CHu-Lx-bjD"; */
+"CHu-Lx-bjD.title" = "Trattini smart";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "EEV-1f-DXg"; */
+"EEV-1f-DXg.title" = "Inizia riproduzione";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Aiuto";
+
+/* Class = "NSMenuItem"; title = "Convusic Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Aiuto Convusic";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "HA0-aO-CLq"; */
+"HA0-aO-CLq.title" = "Porta tutto in primo piano";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "HnS-aq-2HX"; */
+"HnS-aq-2HX.title" = "Cerca precedente";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "KEX-Ab-FyW"; */
+"KEX-Ab-FyW.title" = "Cerca";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Mostra tutto";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "Lzh-xd-w1I"; */
+"Lzh-xd-w1I.title" = "Voce";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "MqA-b0-aKV"; */
+"MqA-b0-aKV.title" = "Mostra la barra strumenti";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "NgU-PK-B6J"; */
+"NgU-PK-B6J.title" = "Iniziali maiuscole";
+
+/* Class = "NSMenuItem"; title = "Hide Convusic"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Nascondi Convusico";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "PJ4-Oz-SSB"; */
+"PJ4-Oz-SSB.title" = "Preferenze";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "PiF-CE-q6H"; */
+"PiF-CE-q6H.title" = "Vai alla selezione";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "RPP-WR-Yyf"; */
+"RPP-WR-Yyf.title" = "Cerca…";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "TUq-Lq-uDm"; */
+"TUq-Lq-uDm.title" = "Modifica";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Nascondi gli altri";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "XRg-c8-YsK"; */
+"XRg-c8-YsK.title" = "Rilevatori di dati";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "YWB-SZ-sdt"; */
+"YWB-SZ-sdt.title" = "Controlla il documento adesso";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "aSk-5r-6wj"; */
+"aSk-5r-6wj.title" = "Sostituzioni";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "b3K-xp-Rsr"; */
+"b3K-xp-Rsr.title" = "Controlla ortografia mentre scrivo";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "bk9-fN-Dcd"; */
+"bk9-fN-Dcd.title" = "Virgolette smart";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "dYa-fR-8IP"; */
+"dYa-fR-8IP.title" = "Sostituzione testo";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "eHy-CS-Fja"; */
+"eHy-CS-Fja.title" = "Trasformazioni";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "fGX-lT-wMj"; */
+"fGX-lT-wMj.title" = "Scrivi in lettere minuscole";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "h4S-l9-bUy"; */
+"h4S-l9-bUy.title" = "Attiva modalità a tutto schermo";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "hVQ-ri-WRx"; */
+"hVQ-ri-WRx.title" = "Vista";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "hm4-uB-6mV"; */
+"hm4-uB-6mV.title" = "Correggi automaticamente ortografia";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "hmj-so-8qL"; */
+"hmj-so-8qL.title" = "Scrivi in lettere maiuscole";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "hod-cx-Xfy"; */
+"hod-cx-Xfy.title" = "Trasformazioni";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "hvE-3X-NTl"; */
+"hvE-3X-NTl.title" = "Cerca";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "iM6-Rp-ZYK"; */
+"iM6-Rp-ZYK.title" = "Incolla";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "iek-9H-DWz"; */
+"iek-9H-DWz.title" = "Modifica";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "kdw-Bt-DQn"; */
+"kdw-Bt-DQn.title" = "Ridimensiona";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "lmk-Nb-x67"; */
+"lmk-Nb-x67.title" = "Annulla";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "p46-yr-21k"; */
+"p46-yr-21k.title" = "Vista";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "pEq-Yp-25L"; */
+"pEq-Yp-25L.title" = "Ortografia e grammatica";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "paX-Qu-WOi"; */
+"paX-Qu-WOi.title" = "Incolla e abbina lo stile";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "pfG-FA-Lvg"; */
+"pfG-FA-Lvg.title" = "Usa la selezione per trovare";
+
+/* Class = "NSMenu"; title = "Convusic"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Convusic";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Aiuto";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "xEb-33-fHe"; */
+"xEb-33-fHe.title" = "Taglia";
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "zJq-m7-etN"; */
+"zJq-m7-etN.title" = "Personalizza la barra strumenti…";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "zZq-bg-bUB"; */
+"zZq-bg-bUB.title" = "Seleziona tutto";

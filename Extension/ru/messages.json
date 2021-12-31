@@ -1,0 +1,40 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Открывайте ссылки на сервис потоковой музыки в другом сервисе потоковой музыки",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "Convusic активировано",
+        "description": "Large visible active title"
+    },
+    "no_service_description": {
+        "message": "Сервис не настроен",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "Ссылки будут открываться в $service$",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
+    },
+    "open_button_description": {
+        "message": "Открыть в Convusic",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "Изменить настройки",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "Не удалось автоматически преобразовать ссылку",
+        "description": "Failed conversion banner message"
+    }
+}

@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "Extension";
+
+"WindowController.ConvertCTA" = "Convert";
+
+"ConvertViewController.Placeholder" = "Enter a music streaming URL and hit return";
+
+"GeneralPreferencesViewController.Title" = "General";
+
+"GeneralPreferenceViewController.NoService" = "None";
+
+"GeneralPreferenceViewController.ServiceLabel" = "My Service:";
+
+"GeneralPreferenceViewController.CloudLabel" = "Use iCloud";
+
+"SupportPreferenceViewController.Title" = "Support";
+
+"SupportPreferenceViewController.EmailCTA" = "Email";
+
+"SupportPreferenceViewController.PrivacyCTA" = "Privacy";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "Website";
+
+"ExtensionViewController.FallbackDescription" = "You can turn on Convusic’s extension in Safari Extensions preferences.";
+
+"ExtensionViewController.EnabledDescription" = "Convusic’s extension is currently on. You can turn it off in Safari Extensions preferences.";
+
+"ExtensionViewController.DisabledDescription" = "Convusic’s extension is currently off. You can turn it on in Safari Extensions preferences.";
+
+"ExtensionViewController.SafariCTA" = "Quit and Open Safari Extensions Preferences…";

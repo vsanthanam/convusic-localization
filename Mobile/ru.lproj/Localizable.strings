@@ -1,0 +1,133 @@
+/* 
+  localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/10/21.
+  
+*/
+
+"WelcomeViewController.TitleOne" = "Выберите приложение";
+
+"WelcomeViewController.StepOne" = "Сообщите нам, какое приложение вы предпочитаете использовать для воспроизведения потоковой музыки.";
+
+"WelcomeViewController.TitleTwo" = "Активируйте расширение";
+
+"WelcomeViewController.StepTwo" = "Разрешите Safari использовать расширение Convusic.";
+
+"WelcomeViewController.TitleThree" = "Откройте ссылку";
+
+"WelcomeViewController.StepThree" = "Convusic будет автоматически перенаправлять музыкальные ссылки в выбранное вами приложение.";
+
+"WelcomeViewController.CTA" = "Начало работы";
+
+"CloudSetupViewController.Title" = "Использовать iCloud?";
+
+"CloudSetupViewController.Explain" = "Ваши настройки будут синхронизированы на всех устройствах с помощью iCloud";
+
+"CloudSetupViewController.CTA" = "Продолжить";
+
+"CloudSetupViewController.Skip" = "Не использовать iCloud";
+
+"CloudSetupViewController.Alert.Title" = "Вы уверены?";
+
+"CloudSetupViewController.Alert.Message" = "Вам нужно будет выбрать предпочитаемый сервис на каждом новом настраиваемом устройстве. Это можно изменить в меню настроек в любой момент.";
+
+"CloudSetupViewController.Alert.Cancel" = "Отмена";
+
+"CloudSetupViewController.Alert.Destructive" = "Продолжить без iCloud";
+
+"SetupViewController.Title" = "Начало работы";
+
+"SetupViewController.CTA" = "Продолжить с %@";
+
+"SetupViewController.EmptyCTA" = "Продолжить";
+
+"SetupViewController.Skip" = "Решить позже";
+
+"SetupViewController.Alert.Title" = "Вы уверены?";
+
+"SetupViewController.Alert.Message" = "Расширению Convusic для Safari нужно знать, какое приложение вы используете для автоматического преобразования ссылок. Вы всё равно сможете преобразовывать ссылки, но вам придется открыть приложение и ввести их вручную. Это можно изменить в меню настроек в любой момент.";
+
+"SetupViewController.Alert.Cancel" = "Отмена";
+
+"SetupViewController.Alert.Destructive" = "Продолжить без выбора";
+
+"InstructionsViewController.Title" = "Инструкция";
+
+"InstructionsViewController.Done" = "Готово";
+
+"InstructionStepDataSource.StepOne" = "Откройте настройки";
+
+"InstructionStepDataSource.StepTwo" = "Выберите Safari";
+
+"InstructionStepDataSource.StepThree" = "Выберите «Расширения»";
+
+"InstructionStepDataSource.StepFour" = "Выберите Convusic";
+
+"InstructionStepDataSource.StepFive" = "Включите Convusic";
+
+"InstructionStepDataSource.StepSix" = "Активируйте все потоковые сервисы";
+
+"MainViewController.ServiceCTA" = "Открыть в %@";
+
+"MainViewController.InstructionsCTA" = "Инструкция";
+
+"MainViewController.SettingsCTA" = "Настройки";
+
+"MainViewController.Alert.Title" = "Не удалось преобразовать";
+
+"MainViewController.Alert.Action" = "OK";
+
+"MainViewController.Error.Title" = "Ошибка";
+
+"MainViewController.Error.Message" = "Неизвестная ошибка преобразования";
+
+"MainViewController.Error.Action" = "OK";
+
+"MainViewController.Offline" = "Convusic офлайн";
+
+"MusicURLCell.Placeholder" = "Введите или вставьте URL-адрес потоковой музыки";
+
+"SettingsViewController.Title" = "Настройки";
+
+"SettingsViewController.Services.Title" = "Мой музыкальный сервис";
+
+"SettingsViewController.Services.NoService" = "Нет";
+
+"SettingsViewController.Options.Clipboard" = "Копировать из буфера обмена";
+
+"SettingsViewController.Options.Cloud" = "Использовать iCloud";
+
+"SettingsViewController.MoreCTA" = "Еще";
+
+"MoreViewController.Title" = "Еще";
+
+"MoreViewController.AcknowledgementsCTA" = "Благодарность";
+
+"MoreViewController.VersionInfo" = "Версия";
+
+"MoreViewController.TwitterCTA" = "Twitter";
+
+"MoreViewController.EmailCTA" = "Эл. почта";
+
+"MoreViewController.PrivacyCTA" = "Конфиденциальность";
+
+"MoreViewController.WebsiteCTA" = "Веб-сайт";
+
+"MoreViewController.ShareCTA" = "Рассказать другу";
+
+"MoreViewController.RateCTA" = "Оценить и оставить отзыв";
+
+"MoreViewController.Support.Title" = "Поддержать Convusic";
+
+"MoreViewController.Help.Title" = "Получить помощь";
+
+"MoreViewController.About.Title" = "О нас";
+
+"AcknowledgementsViewController.Title" = "Благодарность";
+
+"AcknowledgementsViewController.Tools.Title" = "Разработано с помощью следующих инструментов";
+
+"AcknowledgementsViewController.Services.Title" = "На базе следующих сервисов";
+
+"AcknowledgementsViewController.Apps.Title" = "Вдохновлено следующими приложениями";
