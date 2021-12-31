@@ -1,0 +1,40 @@
+{
+    "extension_name": {
+        "message": "Convusic",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "Apri i link del servizio di musica in streaming in un altro servizio di musica in streaming",
+        "description": "Description of what the extension does."
+    },
+    "popup_title": {
+        "message": "Convusic è attiva",
+        "description": "Large visible active title"
+    },
+    "no_service_description": {
+        "message": "Nessun servizio configurato",
+        "description": "Message when user has no service configured"
+    },
+    "service_active_description": {
+        "message": "I link saranno aperti in $service$",
+        "description": "Message when user has a service configured",
+        "placeholders": {
+            "service": {
+                "content": "$1",
+                "example": "Apple Music"
+            }
+        }
+    },
+    "open_button_description": {
+        "message": "Apri in Convusic",
+        "description": "Action button text"
+    },
+    "settings_button_description": {
+        "message": "Modifica impostazioni",
+        "description": "Action button text"
+    },
+    "banner_failure": {
+        "message": "Conversione automatica link non riuscita",
+        "description": "Failed conversion banner message"
+    }
+}
