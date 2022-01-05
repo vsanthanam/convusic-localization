@@ -36,5 +36,9 @@
     "banner_failure": {
         "message": "Automatic Link Conversion Failed",
         "description": "Failed conversion banner message"
+    },
+    "banner_loading": {
+        "message": "Automatic Link Conversion Failed",
+        "description": "Loading conversion banner message"
     }
 }

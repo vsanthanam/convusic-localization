@@ -36,5 +36,9 @@
     "banner_failure": {
         "message": "リンクの自動変換に失敗しました",
         "description": "Failed conversion banner message"
+    },
+    "banner_loading": {
+        "message": "変換中",
+        "description": "Loading conversion banner message"
     }
 }
