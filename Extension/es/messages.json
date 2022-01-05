@@ -36,5 +36,9 @@
     "banner_failure": {
         "message": "Error de conversión de música",
         "description": "Failed conversion banner message"
+    },
+    "banner_loading": {
+        "message": "Conversión en proceso",
+        "description": "Loading conversion banner message"
     }
 }

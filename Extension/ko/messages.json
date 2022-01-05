@@ -36,5 +36,9 @@
     "banner_failure": {
         "message": "자동 링크 전환 실패",
         "description": "Failed conversion banner message"
+    },
+    "banner_loading": {
+        "message": "다른 음악 스트리밍 서비스에서 음악 스트리밍 서비스 링크를 여세요",
+        "description": "Loading conversion banner message"
     }
 }

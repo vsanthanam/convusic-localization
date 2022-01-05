@@ -36,5 +36,9 @@
     "banner_failure": {
         "message": "Falhou a Conversão Automática da Ligação",
         "description": "Failed conversion banner message"
+    },
+    "banner_loading": {
+        "message": "Conversão Em Processo",
+        "description": "Loading conversion banner message"
     }
 }

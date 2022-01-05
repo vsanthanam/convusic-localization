@@ -4,19 +4,19 @@
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "Open music streaming service links in a different music streaming service",
+        "message": "म्यूज़िक स्ट्रीमिंग सेवा लिंक को किसी अन्य म्यूज़िक स्ट्रीमिंग सेवा खोलें",
         "description": "Description of what the extension does."
     },
     "popup_title": {
-        "message": "Convusic is Active",
+        "message": "Convusic सक्रिय है",
         "description": "Large visible active title"
     },
     "no_service_description": {
-        "message": "No service configured",
+        "message": "कोई सेवा कॉनफ़िगर नहीं",
         "description": "Message when user has no service configured"
     },
     "service_active_description": {
-        "message": "Links will be opened in $service$",
+        "message": "लिंक $service$ में खुलेंगे",
         "description": "Message when user has a service configured",
         "placeholders": {
             "service": {
@@ -26,15 +26,19 @@
         }
     },
     "open_button_description": {
-        "message": "Open in Convusic",
+        "message": "Convusic में खोलें",
         "description": "Action button text"
     },
     "settings_button_description": {
-        "message": "Change Settings",
+        "message": "सेटिंग बदलें",
         "description": "Action button text"
     },
     "banner_failure": {
-        "message": "Automatic Link Conversion Failed",
+        "message": "ऑटोमेटिक लिंक कनवर्ज़न विफल",
         "description": "Failed conversion banner message"
+    },
+    "banner_loading": {
+        "message": "कनवर्ज़न जारी है",
+        "description": "Loading conversion banner message"
     }
 }
