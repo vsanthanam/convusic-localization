@@ -38,7 +38,7 @@
         "description": "Failed conversion banner message"
     },
     "banner_loading": {
-        "message": "Automatic Link Conversion Failed",
+        "message": "Conversion en cours",
         "description": "Loading conversion banner message"
     }
 }
