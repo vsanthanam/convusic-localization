@@ -12,7 +12,7 @@
         "description": "サービスが構成されていません"
     },
     "no_service_description": {
-        "message": "No service configured",
+        "message": "サービスが構成されていません",
         "description": "Message when user has no service configured"
     },
     "service_active_description": {

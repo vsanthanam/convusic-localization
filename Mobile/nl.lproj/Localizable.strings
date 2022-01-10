@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "Instellingen";
 
-"SettingsViewController.Services.Title" = "Mijn muziekdienst";
+"SettingsViewController.Services.Title" = "Muziekdiensten";
+
+"SettingsViewController.Services.Default" = "Standaardservice";
 
 "SettingsViewController.Services.NoService" = "Geen";
+
+"SettingsViewController.Options.Title" = "Opties";
 
 "SettingsViewController.Options.Clipboard" = "Van klembord kopiëren";
 
 "SettingsViewController.Options.Cloud" = "Gebruik iCloud";
 
 "SettingsViewController.MoreCTA" = "Meer";
+
+"PreferredServiceViewController.Title" = "Standaardservice";
+
+"PreferredServiceViewController.Services.NoService" = "Geen";
 
 "MoreViewController.Title" = "Meer";
 

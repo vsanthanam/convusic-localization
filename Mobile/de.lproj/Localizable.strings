@@ -54,7 +54,7 @@
 
 "InstructionsViewController.Title" = "Anleitung";
 
-"InstructionsViewController.Done" = "Done";
+"InstructionsViewController.Done" = "Fertig";
 
 "InstructionStepDataSource.StepOne" = "Die App „Einstellungen“ öffnen";
 
@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "Einstellungen";
 
-"SettingsViewController.Services.Title" = "Mein Musikdienst";
+"SettingsViewController.Services.Title" = "Musikdienste";
 
-"SettingsViewController.Services.NoService" = "Keine";
+"SettingsViewController.Services.Default" = "Standarddienst";
+
+"SettingsViewController.Services.NoService" = "Keiner";
+
+"SettingsViewController.Options.Title" = "Optionen";
 
 "SettingsViewController.Options.Clipboard" = "Aus Zwischenablage kopieren";
 
 "SettingsViewController.Options.Cloud" = "iCloud verwenden";
 
 "SettingsViewController.MoreCTA" = "Mehr";
+
+"PreferredServiceViewController.Title" = "Standarddienst";
+
+"PreferredServiceViewController.Services.NoService" = "Keiner";
 
 "MoreViewController.Title" = "Mehr";
 

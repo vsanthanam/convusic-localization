@@ -54,7 +54,7 @@
 
 "InstructionsViewController.Title" = "지시";
 
-"InstructionsViewController.Done" = "Done";
+"InstructionsViewController.Done" = "완료";
 
 "InstructionStepDataSource.StepOne" = "설정 앱 열기";
 
@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "설정";
 
-"SettingsViewController.Services.Title" = "내 음악 서비스";
+"SettingsViewController.Services.Title" = "음악 서비스";
+
+"SettingsViewController.Services.Default" = "기본 서비스";
 
 "SettingsViewController.Services.NoService" = "없음";
+
+"SettingsViewController.Options.Title" = "옵션";
 
 "SettingsViewController.Options.Clipboard" = "클립보드에서 복사";
 
 "SettingsViewController.Options.Cloud" = "iCloud 사용하기";
 
 "SettingsViewController.MoreCTA" = "더보기";
+
+"PreferredServiceViewController.Title" = "기본 서비스";
+
+"PreferredServiceViewController.Services.NoService" = "없음";
 
 "MoreViewController.Title" = "더보기";
 

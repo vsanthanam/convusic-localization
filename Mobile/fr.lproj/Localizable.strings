@@ -54,7 +54,7 @@
 
 "InstructionsViewController.Title" = "Instructions";
 
-"InstructionsViewController.Done" = "Done";
+"InstructionsViewController.Done" = "Terminé";
 
 "InstructionStepDataSource.StepOne" = "Ouvrir l'application Réglages";
 
@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "Paramètres";
 
-"SettingsViewController.Services.Title" = "Mon service musical";
+"SettingsViewController.Services.Title" = "Services musicaux";
+
+"SettingsViewController.Services.Default" = "Service par défaut";
 
 "SettingsViewController.Services.NoService" = "Aucun";
+
+"SettingsViewController.Options.Title" = "Options";
 
 "SettingsViewController.Options.Clipboard" = "Copier depuis le presse-papier";
 
 "SettingsViewController.Options.Cloud" = "Utiliser iCloud";
 
 "SettingsViewController.MoreCTA" = "Plus";
+
+"PreferredServiceViewController.Title" = "Service par défaut";
+
+"PreferredServiceViewController.Services.NoService" = "Aucun";
 
 "MoreViewController.Title" = "Plus";
 

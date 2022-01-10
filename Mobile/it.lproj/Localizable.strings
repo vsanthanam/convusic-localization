@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "Impostazioni";
 
-"SettingsViewController.Services.Title" = "Il mio servizio musicale";
+"SettingsViewController.Services.Title" = "Servizi musicali";
+
+"SettingsViewController.Services.Default" = "Servizio predefinito";
 
 "SettingsViewController.Services.NoService" = "Nessuno";
+
+"SettingsViewController.Options.Title" = "Opzioni";
 
 "SettingsViewController.Options.Clipboard" = "Copia dagli appunti";
 
 "SettingsViewController.Options.Cloud" = "Usa iCloud";
 
 "SettingsViewController.MoreCTA" = "Altro";
+
+"PreferredServiceViewController.Title" = "Servizio predefinito";
+
+"PreferredServiceViewController.Services.NoService" = "Nessuno";
 
 "MoreViewController.Title" = "Altro";
 

@@ -54,7 +54,7 @@
 
 "InstructionsViewController.Title" = "Instruções";
 
-"InstructionsViewController.Done" = "Done";
+"InstructionsViewController.Done" = "Concluído";
 
 "InstructionStepDataSource.StepOne" = "Abrir as Configurações da aplicação";
 
@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "Configurações";
 
-"SettingsViewController.Services.Title" = "O Meu Serviço de Música";
+"SettingsViewController.Services.Title" = "Serviços de Música";
+
+"SettingsViewController.Services.Default" = "Serviço Pré-definido";
 
 "SettingsViewController.Services.NoService" = "Nenhum";
+
+"SettingsViewController.Options.Title" = "Opções";
 
 "SettingsViewController.Options.Clipboard" = "Copiar da Área de transferência";
 
 "SettingsViewController.Options.Cloud" = "Utilizar o iCloud";
 
 "SettingsViewController.MoreCTA" = "Mais";
+
+"PreferredServiceViewController.Title" = "Serviço Pré-definido";
+
+"PreferredServiceViewController.Services.NoService" = "Nenhum";
 
 "MoreViewController.Title" = "Mais";
 
@@ -131,4 +139,3 @@
 "AcknowledgementsViewController.Services.Title" = "Movida por estes serviços";
 
 "AcknowledgementsViewController.Apps.Title" = "Inspirada por estas aplicações";
-
