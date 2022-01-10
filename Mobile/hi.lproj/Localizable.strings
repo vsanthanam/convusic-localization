@@ -54,7 +54,7 @@
 
 "InstructionsViewController.Title" = "निर्देश";
 
-"InstructionsViewController.Done" = "Done";
+"InstructionsViewController.Done" = "पूरा हुआ";
 
 "InstructionStepDataSource.StepOne" = "सेटिंग ऐप चालू करें";
 
@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "सेटिंग";
 
-"SettingsViewController.Services.Title" = "मेरा म्यूज़िक सर्विस";
+"SettingsViewController.Services.Title" = "म्यूज़िक सर्विसेज़";
+
+"SettingsViewController.Services.Default" = "डिफ़ॉल्ट सर्विस";
 
 "SettingsViewController.Services.NoService" = "कोई नहीं";
+
+"SettingsViewController.Options.Title" = "विकल्प";
 
 "SettingsViewController.Options.Clipboard" = "क्लिपबोर्ड से कॉपी करें";
 
 "SettingsViewController.Options.Cloud" = "iCloud का इस्तेमाल करें";
 
 "SettingsViewController.MoreCTA" = "अधिक";
+
+"PreferredServiceViewController.Title" = "डिफ़ॉल्ट सर्विस";
+
+"PreferredServiceViewController.Services.NoService" = "कोई नहीं";
 
 "MoreViewController.Title" = "अधिक";
 

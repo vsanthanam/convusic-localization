@@ -54,7 +54,7 @@
 
 "InstructionsViewController.Title" = "手順";
 
-"InstructionsViewController.Done" = "Done";
+"InstructionsViewController.Done" = "完了";
 
 "InstructionStepDataSource.StepOne" = "「設定」アプリを開きます";
 
@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "設定";
 
-"SettingsViewController.Services.Title" = "マイ音楽サービス";
+"SettingsViewController.Services.Title" = "音楽サービス";
+
+"SettingsViewController.Services.Default" = "デフォルトのサービス";
 
 "SettingsViewController.Services.NoService" = "なし";
+
+"SettingsViewController.Options.Title" = "オプション";
 
 "SettingsViewController.Options.Clipboard" = "クリップボードからコピー";
 
 "SettingsViewController.Options.Cloud" = "iCloudを使用";
 
 "SettingsViewController.MoreCTA" = "さらに表示";
+
+"PreferredServiceViewController.Title" = "デフォルトのサービス";
+
+"PreferredServiceViewController.Services.NoService" = "なし";
 
 "MoreViewController.Title" = "さらに表示";
 

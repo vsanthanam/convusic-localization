@@ -90,15 +90,23 @@
 
 "SettingsViewController.Title" = "Настройки";
 
-"SettingsViewController.Services.Title" = "Мой музыкальный сервис";
+"SettingsViewController.Services.Title" = "Музыкальные сервисы";
+
+"SettingsViewController.Services.Default" = "Сервис по умолчанию";
 
 "SettingsViewController.Services.NoService" = "Нет";
+
+"SettingsViewController.Options.Title" = "Параметры";
 
 "SettingsViewController.Options.Clipboard" = "Копировать из буфера обмена";
 
 "SettingsViewController.Options.Cloud" = "Использовать iCloud";
 
 "SettingsViewController.MoreCTA" = "Еще";
+
+"PreferredServiceViewController.Title" = "Сервис по умолчанию";
+
+"PreferredServiceViewController.Services.NoService" = "Нет";
 
 "MoreViewController.Title" = "Еще";
 
