@@ -139,3 +139,29 @@
 "AcknowledgementsViewController.Services.Title" = "इन सेवाओं द्वारा संचालित";
 
 "AcknowledgementsViewController.Apps.Title" = "इन ऐप्स से प्रेरित";
+
+"MusicService.Errors.SongLink.ArtistPages" = "%@ वाले कलाकार पृष्ठों का समर्थन Convusic नहीं करता";
+
+"MusicService.Errors.SongLink.Unknown" = "अज्ञात %@ त्रुटि";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple म्यूज़िक सत्यापन विफल";
+
+"MusicService.Errors.AppleMusic.Unknown" = "अज्ञात Apple म्यूज़िक त्रुटि";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Apple म्यूज़िक वाले प्लेलिस्टों का समर्थन Convusic नहीं करता";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify सत्यापन त्रुटि";
+
+"MusicService.Errors.Spotify.Unknown" = "अज्ञात Spotify त्रुटि";
+
+"MusicService.Errors.Spotify.Playlist" = "Spotify वाले प्लेलिस्टों का समर्थन Convusic नहीं करता";
+
+"MusicService.Errors.Generic.Unidentifiable" = "इस संगीत सामग्री की पहचान नहीं हो सकी";
+
+"MusicService.Errors.Generic.NoArtist" = "%2$@ पर %1$@ नहीं मिला";
+
+"MusicService.Errors.Generic.NoAlbum" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "अज्ञात कनवर्ज़न विफल";

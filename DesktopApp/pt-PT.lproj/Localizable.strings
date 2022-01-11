@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "Extensão";
+
+"WindowController.ConvertCTA" = "Converter";
+
+"ConvertViewController.Placeholder" = "Introduza um URL de transmissão de música e clique em return";
+
+"GeneralPreferencesViewController.Title" = "Geral";
+
+"GeneralPreferenceViewController.NoService" = "Nenhum";
+
+"GeneralPreferenceViewController.ServiceLabel" = "O Meu Serviço:";
+
+"GeneralPreferenceViewController.CloudLabel" = "Utilizar iCloud";
+
+"SupportPreferenceViewController.Title" = "Suporte";
+
+"SupportPreferenceViewController.EmailCTA" = "Email";
+
+"SupportPreferenceViewController.PrivacyCTA" = "Privacidade";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "Website";
+
+"ExtensionViewController.FallbackDescription" = "Pode ligar a extensão da Convusic nas preferências das Extensões do Safari.";
+
+"ExtensionViewController.EnabledDescription" = "A extensão da Convusic está atualmente ativa. Pode desligá-la nas preferências das Extensões do Safari.";
+
+"ExtensionViewController.DisabledDescription" = "A extensão da Convusic está atualmente desativada. Pode ligá-la nas preferências das Extensões do Safari.";
+
+"ExtensionViewController.SafariCTA" = "Sair e Abrir as Preferências de Extensões do Safari…";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic não suporta páginas de artistas com %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Erro %@ Desconhecido";
+
+"MusicService.Errors.AppleMusic.JWT" = "Falha de Autenticação Apple Music";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Erro Desconhecido da Apple Music";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic não suporta listas de reprodução com Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Falha de Autenticação Spotify";
+
+"MusicService.Errors.Spotify.Unknown" = "Erro Desconhecido do Spotify";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic não suporta listas de reprodução com Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Não foi possível identificar este conteúdo de música";
+
+"MusicService.Errors.Generic.NoArtist" = "Não foi possível encontrar %1$@ em %2$@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Não foi possível encontrar %1$@ por %2$@ em %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Não foi possível encontrar %1$@ por %2$@ em %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Falha Desconhecida de Conversão";

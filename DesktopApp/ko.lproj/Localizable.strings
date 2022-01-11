@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "확장 프로그램";
+
+"WindowController.ConvertCTA" = "전환";
+
+"ConvertViewController.Placeholder" = "음악 스트리밍 URL을 입력하고 리턴을 누르세요";
+
+"GeneralPreferencesViewController.Title" = "일반";
+
+"GeneralPreferenceViewController.NoService" = "없음";
+
+"GeneralPreferenceViewController.ServiceLabel" = "내 서비스:";
+
+"GeneralPreferenceViewController.CloudLabel" = "iCloud 사용";
+
+"SupportPreferenceViewController.Title" = "지원";
+
+"SupportPreferenceViewController.EmailCTA" = "이메일";
+
+"SupportPreferenceViewController.PrivacyCTA" = "개인정보보호";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "웹사이트";
+
+"ExtensionViewController.FallbackDescription" = "Safari의 확장 프로그램 환경 설정에서 Convusic의 확장 프로그램을 켤 수 있습니다.";
+
+"ExtensionViewController.EnabledDescription" = "Convusic의 확장 프로그램이 현재 켜져 있습니다. Safari 확장 프로그램 환경 설정에서 이를 끌 수 있습니다.";
+
+"ExtensionViewController.DisabledDescription" = "Convusic의 확장 프로그램이 현재 꺼져 있습니다. Safari 확장 프로그램 환경 설정에서 이를 켤 수 있습니다.";
+
+"ExtensionViewController.SafariCTA" = "Safari 확장 프로그램 환경 설정을 종료하고 여세요...";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic은 %@(으)로 아티스트 페이지를 지원하지 않습니다.";
+
+"MusicService.Errors.SongLink.Unknown" = "알 수 없는 %@ 오류";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music 인증 실패";
+
+"MusicService.Errors.AppleMusic.Unknown" = "알 수 없는 Apple Music 오류";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic은 Apple Music으로 재생 목록을 지원하지 않습니다";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify 인증 실패";
+
+"MusicService.Errors.Spotify.Unknown" = "알 수 없는 Spotify 오류";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic은 Spotify로 재생 목록을 지원하지 않습니다";
+
+"MusicService.Errors.Generic.Unidentifiable" = "이 음악 콘텐츠를 식별할 수 없습니다";
+
+"MusicService.Errors.Generic.NoArtist" = "%2$@에서 %1$@을(를) 찾을 수 없습니다";
+
+"MusicService.Errors.Generic.NoAlbum" = "%3$@에서 %2$@의 %1$@을(를) 찾을 수 없습니다";
+
+"MusicService.Errors.Generic.NoTrack" = "%3$@에서 %2$@의 %1$@을(를) 찾을 수 없습니다";
+
+"MusicService.Errors.Generic.Unknown" = "알 수 없는 전환 실패";

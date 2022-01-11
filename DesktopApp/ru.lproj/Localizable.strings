@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "Расширение";
+
+"WindowController.ConvertCTA" = "Преобразовать";
+
+"ConvertViewController.Placeholder" = "Введите URL-адрес потоковой музыки и нажмите Enter";
+
+"GeneralPreferencesViewController.Title" = "Общее";
+
+"GeneralPreferenceViewController.NoService" = "Нет";
+
+"GeneralPreferenceViewController.ServiceLabel" = "Мой сервис:";
+
+"GeneralPreferenceViewController.CloudLabel" = "Использовать iCloud";
+
+"SupportPreferenceViewController.Title" = "Поддержка";
+
+"SupportPreferenceViewController.EmailCTA" = "Эл. почта";
+
+"SupportPreferenceViewController.PrivacyCTA" = "Конфиденциальность";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "Веб-сайт";
+
+"ExtensionViewController.FallbackDescription" = "Расширение Convusic можно включить в параметрах расширений Safari.";
+
+"ExtensionViewController.EnabledDescription" = "Расширение Convusic включено. Его можно выключить в параметрах расширений Safari.";
+
+"ExtensionViewController.DisabledDescription" = "Расширение Convusic выключено. Его можно включить в параметрах расширений Safari.";
+
+"ExtensionViewController.SafariCTA" = "Выйти и открыть параметры расширений Safari…";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic не поддерживает страницы исполнителей в %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Неизвестная ошибка %@";
+
+"MusicService.Errors.AppleMusic.JWT" = "Ошибка аутентификации Apple Music";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Неизвестная ошибка Apple Music";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic не поддерживает плейлисты Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Ошибка аутентификации Spotify";
+
+"MusicService.Errors.Spotify.Unknown" = "Неизвестная ошибка Spotify";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic не поддерживает плейлисты Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Не удалось идентифицировать этот музыкальный контент";
+
+"MusicService.Errors.Generic.NoArtist" = "Не удалось найти %1$@ в %2$@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Не удалось найти %1$@ (исполнитель: %2$@) в %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Не удалось найти %1$@ (исполнитель: %2$@) в %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Неизвестная ошибка преобразования";

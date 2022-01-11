@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "Extension";
+
+"WindowController.ConvertCTA" = "Convert";
+
+"ConvertViewController.Placeholder" = "Enter a music streaming URL and hit return";
+
+"GeneralPreferencesViewController.Title" = "General";
+
+"GeneralPreferenceViewController.NoService" = "None";
+
+"GeneralPreferenceViewController.ServiceLabel" = "My Service:";
+
+"GeneralPreferenceViewController.CloudLabel" = "Use iCloud";
+
+"SupportPreferenceViewController.Title" = "Support";
+
+"SupportPreferenceViewController.EmailCTA" = "Email";
+
+"SupportPreferenceViewController.PrivacyCTA" = "Privacy";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "Website";
+
+"ExtensionViewController.FallbackDescription" = "You can turn on Convusic’s extension in Safari Extensions preferences.";
+
+"ExtensionViewController.EnabledDescription" = "Convusic’s extension is currently on. You can turn it off in Safari Extensions preferences.";
+
+"ExtensionViewController.DisabledDescription" = "Convusic’s extension is currently off. You can turn it on in Safari Extensions preferences.";
+
+"ExtensionViewController.SafariCTA" = "Quit and Open Safari Extensions Preferences…";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic doesn't support artist pages with %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Unknown %@ Error";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music Authentication Failure";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Unknown Apple Music Error";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic doesn't support playlists with Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify Authentication Failure";
+
+"MusicService.Errors.Spotify.Unknown" = "Unknown Spotify Error";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic doesn't support playlists with Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Couldn't identify this music content";
+
+"MusicService.Errors.Generic.NoArtist" = "Couldn't find %1$@ on %2$@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Unknown Conversion Failure";

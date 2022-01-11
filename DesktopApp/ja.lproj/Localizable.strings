@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "拡張機能";
+
+"WindowController.ConvertCTA" = "変換";
+
+"ConvertViewController.Placeholder" = "音楽のストリーミングURLを入力し、Returnを押してください";
+
+"GeneralPreferencesViewController.Title" = "一般";
+
+"GeneralPreferenceViewController.NoService" = "なし";
+
+"GeneralPreferenceViewController.ServiceLabel" = "マイサービス：";
+
+"GeneralPreferenceViewController.CloudLabel" = "iCloudを使用";
+
+"SupportPreferenceViewController.Title" = "サポート";
+
+"SupportPreferenceViewController.EmailCTA" = "メールアドレス";
+
+"SupportPreferenceViewController.PrivacyCTA" = "プライバシー";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "ウェブサイト";
+
+"ExtensionViewController.FallbackDescription" = "「Safari機能拡張」の「環境設定」でConvusicの拡張機能をオンに設定できます。";
+
+"ExtensionViewController.EnabledDescription" = "Convusicの拡張機能は現在オンに設定されています。「Safari機能拡張」の「環境設定」でオフに設定できます。";
+
+"ExtensionViewController.DisabledDescription" = "Convusicの拡張機能は現在オフに設定されています。「Safari機能拡張」の「環境設定」でオンに設定できます。";
+
+"ExtensionViewController.SafariCTA" = "中断して「Safari機能拡張」の「環境設定」を開く...";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusicは%@のアーティストページをサポートしていません";
+
+"MusicService.Errors.SongLink.Unknown" = "%@の不明なエラー";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music認証エラー";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Apple Musicの不明なエラー";
+
+"MusicService.Errors.AppleMusic.Playlist" = "ConvusicはApple Musicのプレイリストをサポートしていません";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify認証エラー";
+
+"MusicService.Errors.Spotify.Unknown" = "Spotifyの不明なエラー";
+
+"MusicService.Errors.Spotify.Playlist" = "ConvusicはSpotifyのプレイリストをサポートしていません";
+
+"MusicService.Errors.Generic.Unidentifiable" = "この曲のコンテンツを特定できません";
+
+"MusicService.Errors.Generic.NoArtist" = "%2$@で%1$@が見つかりませんでした";
+
+"MusicService.Errors.Generic.NoAlbum" = "%3$@で%2$@による%1$@が見つかりませんでした%@%@%@";
+
+"MusicService.Errors.Generic.NoTrack" = "%3$@で%2$@による%1$@が見つかりませんでした";
+
+"MusicService.Errors.Generic.Unknown" = "不明な変換エラー";

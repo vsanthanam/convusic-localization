@@ -1,0 +1,167 @@
+/*
+  localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/10/21.
+  
+*/
+
+"WelcomeViewController.TitleOne" = "Escolha a sua aplicação";
+
+"WelcomeViewController.StepOne" = "Diga-nos qual a aplicação de transmissão de música que prefere utilizar.";
+
+"WelcomeViewController.TitleTwo" = "Ativar a extensão";
+
+"WelcomeViewController.StepTwo" = "Autorizar Safari a utilizar a Extensão Convusic.";
+
+"WelcomeViewController.TitleThree" = "Abrir uma ligação";
+
+"WelcomeViewController.StepThree" = "A Convusic irá encaminhar automaticamente ligações musicais para a sua aplicação escolhida.";
+
+"WelcomeViewController.CTA" = "Iniciar";
+
+"CloudSetupViewController.Title" = "Utilizar iCloud?";
+
+"CloudSetupViewController.Explain" = "As suas preferências serão sincronizadas nos seus dispositivos através do iCloud";
+
+"CloudSetupViewController.CTA" = "Continuar";
+
+"CloudSetupViewController.Skip" = "Não Utilizar o iCloud";
+
+"CloudSetupViewController.Alert.Title" = "Tem a certeza?";
+
+"CloudSetupViewController.Alert.Message" = "Terá de selecionar as suas preferências de serviço em cada novo dispositivo que configurar. Pode alterar isto no menu de configurações em qualquer altura.";
+
+"CloudSetupViewController.Alert.Cancel" = "Cancelar";
+
+"CloudSetupViewController.Alert.Destructive" = "Continuar Sem iCloud";
+
+"SetupViewController.Title" = "Iniciar";
+
+"SetupViewController.CTA" = "Continuar com %@";
+
+"SetupViewController.EmptyCTA" = "Continuar";
+
+"SetupViewController.Skip" = "Decidir Mais Tarde";
+
+"SetupViewController.Alert.Title" = "Tem a certeza?";
+
+"SetupViewController.Alert.Message" = "A Extensão Convusic Safari precisa de saber qual a aplicação que utiliza para converter automaticamente as ligações. Pode ainda definir converter ligações, mas terá de abrir a aplicação e digitá-las manualmente. Pode alterar isto no menu de configurações em qualquer altura.";
+
+"SetupViewController.Alert.Cancel" = "Cancelar";
+
+"SetupViewController.Alert.Destructive" = "Continuar Sem Seleção";
+
+"InstructionsViewController.Title" = "Instruções";
+
+"InstructionsViewController.Done" = "Concluído";
+
+"InstructionStepDataSource.StepOne" = "Abrir as Configurações da aplicação";
+
+"InstructionStepDataSource.StepTwo" = "Selecione Safari";
+
+"InstructionStepDataSource.StepThree" = "Selecione Extensões";
+
+"InstructionStepDataSource.StepFour" = "Selecione Convusic";
+
+"InstructionStepDataSource.StepFive" = "Ative a Convusic";
+
+"InstructionStepDataSource.StepSix" = "Ative Todos os Serviços de Transmissão";
+
+"MainViewController.ServiceCTA" = "Abrir em %@";
+
+"MainViewController.InstructionsCTA" = "Instruções";
+
+"MainViewController.SettingsCTA" = "Configurações";
+
+"MainViewController.Alert.Title" = "Converão Falhou";
+
+"MainViewController.Alert.Action" = "OK";
+
+"MainViewController.Error.Title" = "Erro";
+
+"MainViewController.Error.Message" = "Falha Desconhecida de Conversão";
+
+"MainViewController.Error.Action" = "OK";
+
+"MainViewController.Offline" = "A Convusic está Offline";
+
+"MusicURLCell.Placeholder" = "Introduza ou Digie um URL de Transmissão de Música";
+
+"SettingsViewController.Title" = "Configurações";
+
+"SettingsViewController.Services.Title" = "Serviços de Música";
+
+"SettingsViewController.Services.Default" = "Serviço Pré-definido";
+
+"SettingsViewController.Services.NoService" = "Nenhum";
+
+"SettingsViewController.Options.Title" = "Opções";
+
+"SettingsViewController.Options.Clipboard" = "Copiar da Área de transferência";
+
+"SettingsViewController.Options.Cloud" = "Utilizar o iCloud";
+
+"SettingsViewController.MoreCTA" = "Mais";
+
+"PreferredServiceViewController.Title" = "Serviço Pré-definido";
+
+"PreferredServiceViewController.Services.NoService" = "Nenhum";
+
+"MoreViewController.Title" = "Mais";
+
+"MoreViewController.AcknowledgementsCTA" = "Agradecimentos";
+
+"MoreViewController.VersionInfo" = "Versão";
+
+"MoreViewController.TwitterCTA" = "Twitter";
+
+"MoreViewController.EmailCTA" = "Email";
+
+"MoreViewController.PrivacyCTA" = "Privacidade";
+
+"MoreViewController.WebsiteCTA" = "Website";
+
+"MoreViewController.ShareCTA" = "Contar a um Amigo";
+
+"MoreViewController.RateCTA" = "Classificar e Avaliar";
+
+"MoreViewController.Support.Title" = "Apoie a Convusic";
+
+"MoreViewController.Help.Title" = "Obter Ajuda";
+
+"MoreViewController.About.Title" = "Sobre";
+
+"AcknowledgementsViewController.Title" = "Agradecimentos";
+
+"AcknowledgementsViewController.Tools.Title" = "Desenvolvida com estas ferramentas";
+
+"AcknowledgementsViewController.Services.Title" = "Movida por estes serviços";
+
+"AcknowledgementsViewController.Apps.Title" = "Inspirada por estas aplicações";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic doesn't support artist pages with %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Unknown %@ Error";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music Authentication Failure";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Unknown Apple Music Error";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic doesn't support playlists with Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify Authentication Failure";
+
+"MusicService.Errors.Spotify.Unknown" = "Unknown Spotify Error";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic doesn't support playlists with Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Couldn't identify this music content";
+
+"MusicService.Errors.Generic.NoArtist" = "Couldn't find %@ on %@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Couldn't find %@ by %@ on %@";
+
+"MusicService.Errors.Generic.NoTrack" = "Couldn't find %@ by %@ on %@";
+
+"MusicService.Errors.Generic.Unknown" = "Unknown Conversion Failure";

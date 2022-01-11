@@ -139,3 +139,29 @@
 "AcknowledgementsViewController.Services.Title" = "Movida por estes serviços";
 
 "AcknowledgementsViewController.Apps.Title" = "Inspirada por estas aplicações";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic não suporta páginas de artistas com %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Erro %@ Desconhecido";
+
+"MusicService.Errors.AppleMusic.JWT" = "Falha de Autenticação Apple Music";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Erro Desconhecido da Apple Music";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic não suporta listas de reprodução com Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Falha de Autenticação Spotify";
+
+"MusicService.Errors.Spotify.Unknown" = "Erro Desconhecido do Spotify";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic não suporta listas de reprodução com Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Não foi possível identificar este conteúdo de música";
+
+"MusicService.Errors.Generic.NoArtist" = "Não foi possível encontrar %1$@ em %2$@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Não foi possível encontrar %1$@ por %2$@ em %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Não foi possível encontrar %1$@ por %2$@ em %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Falha Desconhecida de Conversão";

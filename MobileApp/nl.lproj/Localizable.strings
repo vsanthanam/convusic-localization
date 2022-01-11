@@ -1,0 +1,167 @@
+/* 
+  localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/10/21.
+  
+*/
+
+"WelcomeViewController.TitleOne" = "Kies uw app";
+
+"WelcomeViewController.StepOne" = "Vertel ons welke app voor het streamen van muziek uw voorkeur heeft.";
+
+"WelcomeViewController.TitleTwo" = "De extensie inschakelen";
+
+"WelcomeViewController.StepTwo" = "Sta Safari toe om de Convusic-extensie te gebruiken.";
+
+"WelcomeViewController.TitleThree" = "Een link openen";
+
+"WelcomeViewController.StepThree" = "Convusic zal automatisch muziek-links naar de app van uw keuze sturen.";
+
+"WelcomeViewController.CTA" = "Aan de slag";
+
+"CloudSetupViewController.Title" = "iCloud gebruiken?";
+
+"CloudSetupViewController.Explain" = "Uw voorkeuren worden op al uw apparaten gesynchroniseerd via iCloud";
+
+"CloudSetupViewController.CTA" = "Doorgaan";
+
+"CloudSetupViewController.Skip" = "iCloud niet gebruiken";
+
+"CloudSetupViewController.Alert.Title" = "Weet u het zeker?";
+
+"CloudSetupViewController.Alert.Message" = "U zult uw servicevoorkeuren moeten selecteren op elk nieuw apparaat dat u installeert. U kunt dit op elk moment in het instellingenmenu wijzigen.";
+
+"CloudSetupViewController.Alert.Cancel" = "Annuleren";
+
+"CloudSetupViewController.Alert.Destructive" = "Doorgaan zonder iCloud";
+
+"SetupViewController.Title" = "Aan de slag";
+
+"SetupViewController.CTA" = "Doorgaan met %@";
+
+"SetupViewController.EmptyCTA" = "Doorgaan";
+
+"SetupViewController.Skip" = "Later beslissen";
+
+"SetupViewController.Alert.Title" = "Weet u het zeker?";
+
+"SetupViewController.Alert.Message" = "De Convusic Safari-extensie moet weten met welke app u automatisch links converteert. U kunt het converteren van links stilzetten, maar dan zult u de app moeten openen en ze handmatig invoeren. U kunt dit op elk moment in het instellingenmenu wijzigen.";
+
+"SetupViewController.Alert.Cancel" = "Annuleren";
+
+"SetupViewController.Alert.Destructive" = "Doorgaan zonder selectie";
+
+"InstructionsViewController.Title" = "Instructies";
+
+"InstructionsViewController.Done" = "Klaar";
+
+"InstructionStepDataSource.StepOne" = "De instellingen-app openen";
+
+"InstructionStepDataSource.StepTwo" = "Safari selecteren";
+
+"InstructionStepDataSource.StepThree" = "Extensies selecteren";
+
+"InstructionStepDataSource.StepFour" = "Convusic selecteren";
+
+"InstructionStepDataSource.StepFive" = "Convusic inschakelen";
+
+"InstructionStepDataSource.StepSix" = "Alle streamingdiensten inschakelen";
+
+"MainViewController.ServiceCTA" = "In %@ openen";
+
+"MainViewController.InstructionsCTA" = "Instructies";
+
+"MainViewController.SettingsCTA" = "Instellingen";
+
+"MainViewController.Alert.Title" = "Omzetting mislukt";
+
+"MainViewController.Alert.Action" = "Oké";
+
+"MainViewController.Error.Title" = "Fout";
+
+"MainViewController.Error.Message" = "Onbekende conversiefout";
+
+"MainViewController.Error.Action" = "Oké";
+
+"MainViewController.Offline" = "Convusic is offline";
+
+"MusicURLCell.Placeholder" = "Een URL voor muziekstreaming invoeren of plakken";
+
+"SettingsViewController.Title" = "Instellingen";
+
+"SettingsViewController.Services.Title" = "Muziekdiensten";
+
+"SettingsViewController.Services.Default" = "Standaardservice";
+
+"SettingsViewController.Services.NoService" = "Geen";
+
+"SettingsViewController.Options.Title" = "Opties";
+
+"SettingsViewController.Options.Clipboard" = "Van klembord kopiëren";
+
+"SettingsViewController.Options.Cloud" = "Gebruik iCloud";
+
+"SettingsViewController.MoreCTA" = "Meer";
+
+"PreferredServiceViewController.Title" = "Standaardservice";
+
+"PreferredServiceViewController.Services.NoService" = "Geen";
+
+"MoreViewController.Title" = "Meer";
+
+"MoreViewController.AcknowledgementsCTA" = "Dankwoord";
+
+"MoreViewController.VersionInfo" = "Versie";
+
+"MoreViewController.TwitterCTA" = "Twitter";
+
+"MoreViewController.EmailCTA" = "E-mail";
+
+"MoreViewController.PrivacyCTA" = "Privacy";
+
+"MoreViewController.WebsiteCTA" = "Website";
+
+"MoreViewController.ShareCTA" = "Vertel een vriend";
+
+"MoreViewController.RateCTA" = "Beoordelen";
+
+"MoreViewController.Support.Title" = "Convusic ondersteunen";
+
+"MoreViewController.Help.Title" = "Hulp krijgen";
+
+"MoreViewController.About.Title" = "Over";
+
+"AcknowledgementsViewController.Title" = "Dankbetuiging";
+
+"AcknowledgementsViewController.Tools.Title" = "Met deze tools gebouwd";
+
+"AcknowledgementsViewController.Services.Title" = "Aangedreven door deze diensten";
+
+"AcknowledgementsViewController.Apps.Title" = "Met inspiratie van deze app";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic doesn't support artist pages with %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Unknown %@ Error";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music Authentication Failure";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Unknown Apple Music Error";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic doesn't support playlists with Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify Authentication Failure";
+
+"MusicService.Errors.Spotify.Unknown" = "Unknown Spotify Error";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic doesn't support playlists with Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Couldn't identify this music content";
+
+"MusicService.Errors.Generic.NoArtist" = "Couldn't find %@ on %@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Couldn't find %@ by %@ on %@";
+
+"MusicService.Errors.Generic.NoTrack" = "Couldn't find %@ by %@ on %@";
+
+"MusicService.Errors.Generic.Unknown" = "Unknown Conversion Failure";

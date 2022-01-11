@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 1/11/22.
+  
+*/
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic ondersteunt geen artiestenpagina's met %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Onbekende %@-fout";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music authenticatiefout";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Onbekende Apple Music-fout";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic ondersteunt geen playlists met Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify authenticatiefout";
+
+"MusicService.Errors.Spotify.Unknown" = "Onbekende Spotify-fout";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic ondersteunt geen playlists met Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Niet mogelijk om deze muziekinhoud te identificeren";
+
+"MusicService.Errors.Generic.NoArtist" = "Kon %1$@ niet op %2$@ vinden";
+
+"MusicService.Errors.Generic.NoAlbum" = "Kon %1$@ van %2$@ niet vinden op %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Niet mogelijk om %1$@ van %2$@ te vinden op %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Onbekende conversiefout";
