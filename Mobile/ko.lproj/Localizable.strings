@@ -139,3 +139,29 @@
 "AcknowledgementsViewController.Services.Title" = "다음의 서비스가 지원함";
 
 "AcknowledgementsViewController.Apps.Title" = "영감을 얻은 앱";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic doesn't support artist pages with %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Unknown %@ Error";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music Authentication Failure";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Unknown Apple Music Error";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic doesn't support playlists with Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify Authentication Failure";
+
+"MusicService.Errors.Spotify.Unknown" = "Unknown Spotify Error";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic doesn't support playlists with Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Couldn't identify this music content";
+
+"MusicService.Errors.Generic.NoArtist" = "Couldn't find %1$@ on %2$@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Unknown Conversion Failure";

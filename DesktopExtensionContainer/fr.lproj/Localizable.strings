@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 1/11/22.
+  
+*/
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic ne prend pas en charge les pages d'artiste avec %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Erreur %@ inconnue";
+
+"MusicService.Errors.AppleMusic.JWT" = "Échec d'authentification à Apple Music";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Erreur inconnue d'Apple Music";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic ne prend pas en charge les listes de lecture avec Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Échec d'authentification à Spotify";
+
+"MusicService.Errors.Spotify.Unknown" = "Erreur inconnue de Spotify";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic ne prend pas en charge les listes de lecture avec Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Impossible d'identifier ce contenu musical";
+
+"MusicService.Errors.Generic.NoArtist" = "Impossible de trouver %1$@ sur %2$@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Impossible de trouver %1$@ de %2$@ sur %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Impossible de trouver %1$@ de %2$@ sur %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Échec de conversion inconnu";

@@ -1,0 +1,167 @@
+/* 
+  localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/10/21.
+  
+*/
+
+"WelcomeViewController.TitleOne" = "अपना ऐप चुनें";
+
+"WelcomeViewController.StepOne" = "हमें बताएं कि आप किस म्यूज़िक स्ट्रीमिंग ऐप का इस्तेमाल कर पसंद कर सकते हैं।";
+
+"WelcomeViewController.TitleTwo" = "एक्सटेंशन सक्षम करें";
+
+"WelcomeViewController.StepTwo" = "सफ़ारी को Convusic एक्सटेंशन का इस्तेमाल करने दें।";
+
+"WelcomeViewController.TitleThree" = "लिंक खोलें";
+
+"WelcomeViewController.StepThree" = "Convusic अपने आप म्यूज़िक लिंक को आपके पसंदीदा ऐप पर डाल देगा।";
+
+"WelcomeViewController.CTA" = "शुरु करें";
+
+"CloudSetupViewController.Title" = "iCloud का इस्तेमाल करें?";
+
+"CloudSetupViewController.Explain" = "आपकी प्राथमिकताओं को iCloud के माध्यम से आपके डिवाइसों पर सिंक किया जाएगा";
+
+"CloudSetupViewController.CTA" = "जारी रखें";
+
+"CloudSetupViewController.Skip" = "iCloud का इस्तेमाल मत करें";
+
+"CloudSetupViewController.Alert.Title" = "क्या आप सुनिश्चित हैं?";
+
+"CloudSetupViewController.Alert.Message" = "आपको अपनी सेवा प्राथमिकताओं को सभी नए डिवाइस पर सेटप करना होगा। आप इसे जब चाहें सेटिंग मेनू में बदल सकते हैं।";
+
+"CloudSetupViewController.Alert.Cancel" = "रद्द करें";
+
+"CloudSetupViewController.Alert.Destructive" = "बिना iCloud के जारी रखें";
+
+"SetupViewController.Title" = "शुरु करें";
+
+"SetupViewController.CTA" = "%@ के साथ जारी रखें";
+
+"SetupViewController.EmptyCTA" = "जारी रखें";
+
+"SetupViewController.Skip" = "बाद में निर्णय लें";
+
+"SetupViewController.Alert.Title" = "क्या आप सुनिश्चित हैं?";
+
+"SetupViewController.Alert.Message" = "Convusic सफ़ारी एक्सटेंशन को यह जानना है कि आप लिंक को अपने आप कनवर्ट करने के लिए किस ऐप का उपयोग करते हैं। आप अभी भी कन्वर्ट लिंक सेट कर सकते हैं, लेकिन आपको ऐप खोलना होगा और उन्हें मैन्युअल रूप से टाइप करना होगा। आप इसे किसी भी समय सेटिंग मेनू में बदल सकते हैं।";
+
+"SetupViewController.Alert.Cancel" = "रद्द करें";
+
+"SetupViewController.Alert.Destructive" = "बिना चुने जारी रखें";
+
+"InstructionsViewController.Title" = "निर्देश";
+
+"InstructionsViewController.Done" = "पूरा हुआ";
+
+"InstructionStepDataSource.StepOne" = "सेटिंग ऐप चालू करें";
+
+"InstructionStepDataSource.StepTwo" = "सफ़ारी चुनें";
+
+"InstructionStepDataSource.StepThree" = "एक्सटेंशन चुनें";
+
+"InstructionStepDataSource.StepFour" = "Convusic चुनें";
+
+"InstructionStepDataSource.StepFive" = "Convusic चालू करें";
+
+"InstructionStepDataSource.StepSix" = "सभी स्ट्रीमिंग सेवाएं सक्षम करें";
+
+"MainViewController.ServiceCTA" = "%@ में खोलें";
+
+"MainViewController.InstructionsCTA" = "निर्देश";
+
+"MainViewController.SettingsCTA" = "सेटिंग";
+
+"MainViewController.Alert.Title" = "कनवर्ज़न विफल";
+
+"MainViewController.Alert.Action" = "ठीक है";
+
+"MainViewController.Error.Title" = "त्रुटि";
+
+"MainViewController.Error.Message" = "अज्ञात कनवर्ज़न विफल";
+
+"MainViewController.Error.Action" = "ठीक है";
+
+"MainViewController.Offline" = "Convusic ऑफ़लाइन है";
+
+"MusicURLCell.Placeholder" = "एक म्यूज़िक स्ट्रीमिंग यूआरएल डालें या पेस्ट करें";
+
+"SettingsViewController.Title" = "सेटिंग";
+
+"SettingsViewController.Services.Title" = "म्यूज़िक सर्विसेज़";
+
+"SettingsViewController.Services.Default" = "डिफ़ॉल्ट सर्विस";
+
+"SettingsViewController.Services.NoService" = "कोई नहीं";
+
+"SettingsViewController.Options.Title" = "विकल्प";
+
+"SettingsViewController.Options.Clipboard" = "क्लिपबोर्ड से कॉपी करें";
+
+"SettingsViewController.Options.Cloud" = "iCloud का इस्तेमाल करें";
+
+"SettingsViewController.MoreCTA" = "अधिक";
+
+"PreferredServiceViewController.Title" = "डिफ़ॉल्ट सर्विस";
+
+"PreferredServiceViewController.Services.NoService" = "कोई नहीं";
+
+"MoreViewController.Title" = "अधिक";
+
+"MoreViewController.AcknowledgementsCTA" = "आभार";
+
+"MoreViewController.VersionInfo" = "संस्करण";
+
+"MoreViewController.TwitterCTA" = "ट्विटर";
+
+"MoreViewController.EmailCTA" = "ईमेल";
+
+"MoreViewController.PrivacyCTA" = "निजता";
+
+"MoreViewController.WebsiteCTA" = "वेबसाइट";
+
+"MoreViewController.ShareCTA" = "किसी दोस्त को बताएं";
+
+"MoreViewController.RateCTA" = "आंकें और समीक्षा दें";
+
+"MoreViewController.Support.Title" = "Convusic का समर्थन करें";
+
+"MoreViewController.Help.Title" = "मदद पाएं";
+
+"MoreViewController.About.Title" = "परिचय";
+
+"AcknowledgementsViewController.Title" = "आभार";
+
+"AcknowledgementsViewController.Tools.Title" = "इन उपकरणों के साथ बना";
+
+"AcknowledgementsViewController.Services.Title" = "इन सेवाओं द्वारा संचालित";
+
+"AcknowledgementsViewController.Apps.Title" = "इन ऐप्स से प्रेरित";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic doesn't support artist pages with %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Unknown %@ Error";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music Authentication Failure";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Unknown Apple Music Error";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic doesn't support playlists with Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify Authentication Failure";
+
+"MusicService.Errors.Spotify.Unknown" = "Unknown Spotify Error";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic doesn't support playlists with Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Couldn't identify this music content";
+
+"MusicService.Errors.Generic.NoArtist" = "Couldn't find %@ on %@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Couldn't find %@ by %@ on %@";
+
+"MusicService.Errors.Generic.NoTrack" = "Couldn't find %@ by %@ on %@";
+
+"MusicService.Errors.Generic.Unknown" = "Unknown Conversion Failure";

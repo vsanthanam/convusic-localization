@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 1/11/22.
+  
+*/
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusicは%@のアーティストページをサポートしていません";
+
+"MusicService.Errors.SongLink.Unknown" = "%@の不明なエラー";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple Music認証エラー";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Apple Musicの不明なエラー";
+
+"MusicService.Errors.AppleMusic.Playlist" = "ConvusicはApple Musicのプレイリストをサポートしていません";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify認証エラー";
+
+"MusicService.Errors.Spotify.Unknown" = "Spotifyの不明なエラー";
+
+"MusicService.Errors.Spotify.Playlist" = "ConvusicはSpotifyのプレイリストをサポートしていません";
+
+"MusicService.Errors.Generic.Unidentifiable" = "この曲のコンテンツを特定できません";
+
+"MusicService.Errors.Generic.NoArtist" = "%2$@で%1$@が見つかりませんでした";
+
+"MusicService.Errors.Generic.NoAlbum" = "%3$@で%2$@による%1$@が見つかりませんでした%@%@%@";
+
+"MusicService.Errors.Generic.NoTrack" = "%3$@で%2$@による%1$@が見つかりませんでした";
+
+"MusicService.Errors.Generic.Unknown" = "不明な変換エラー";

@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "Estensione";
+
+"WindowController.ConvertCTA" = "Converti";
+
+"ConvertViewController.Placeholder" = "Inserisci un URL di musica in streaming e premi Invio";
+
+"GeneralPreferencesViewController.Title" = "Generale";
+
+"GeneralPreferenceViewController.NoService" = "Nessuno";
+
+"GeneralPreferenceViewController.ServiceLabel" = "Il mio servizio:";
+
+"GeneralPreferenceViewController.CloudLabel" = "Usa iCloud";
+
+"SupportPreferenceViewController.Title" = "Assistenza";
+
+"SupportPreferenceViewController.EmailCTA" = "Email";
+
+"SupportPreferenceViewController.PrivacyCTA" = "Privacy";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "Sito web";
+
+"ExtensionViewController.FallbackDescription" = "Puoi attivare l'estensione di Convusic nella scheda Estensioni delle preferenze di Safari.";
+
+"ExtensionViewController.EnabledDescription" = "L'estensione di Convusic è attualmente attiva. Puoi disattivarla nella scheda Estensioni delle preferenze di Safari.";
+
+"ExtensionViewController.DisabledDescription" = "L'estensione di Convusic è attualmente disattivata. Puoi attivarla nella scheda Estensioni delle preferenze di Safari.";
+
+"ExtensionViewController.SafariCTA" = "Esci e apri la scheda Estensioni delle preferenze di Safari...";
+
+"MusicService.Errors.SongLink.ArtistPages" = "Convusic non supporta le pagine degli artisti con %@";
+
+"MusicService.Errors.SongLink.Unknown" = "Errore sconosciuto %@";
+
+"MusicService.Errors.AppleMusic.JWT" = "Errore di autenticazione di Apple Music";
+
+"MusicService.Errors.AppleMusic.Unknown" = "Errore sconosciuto di Apple Music";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Convusic non supporta le playlist con Apple Music";
+
+"MusicService.Errors.Spotify.Authentication" = "Errore di autenticazione di Spotify";
+
+"MusicService.Errors.Spotify.Unknown" = "Errore sconosciuto di Spotify";
+
+"MusicService.Errors.Spotify.Playlist" = "Convusic non supporta le playlist con Spotify";
+
+"MusicService.Errors.Generic.Unidentifiable" = "Impossibile identificare questo contenuto musicale";
+
+"MusicService.Errors.Generic.NoArtist" = "Impossibile trovare %1$@ su %2$@";
+
+"MusicService.Errors.Generic.NoAlbum" = "Impossibile trovare %1$@ di %2$@ su %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Impossibile trovare %1$@ di %2$@ su %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "Errore di conversione sconosciuto";

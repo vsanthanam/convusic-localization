@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Convusic
+
+  Created by Varun Santhanam on 12/13/21.
+  
+*/
+
+"WindowController.Title" = "Convusic";
+
+"WindowController.ExtensionCTA" = "एक्सटेंशन";
+
+"WindowController.ConvertCTA" = "बदलें";
+
+"ConvertViewController.Placeholder" = "एक म्यूज़िक स्ट्रीमिंग यूआरएल डालें और रिटर्न दबाएं";
+
+"GeneralPreferencesViewController.Title" = "सामान्य";
+
+"GeneralPreferenceViewController.NoService" = "कोई नहीं";
+
+"GeneralPreferenceViewController.ServiceLabel" = "मेरी सेवा:";
+
+"GeneralPreferenceViewController.CloudLabel" = "iCloud का इस्तेमाल करें";
+
+"SupportPreferenceViewController.Title" = "समर्थन";
+
+"SupportPreferenceViewController.EmailCTA" = "ईमेल";
+
+"SupportPreferenceViewController.PrivacyCTA" = "निजता";
+
+"SupportPreferenceViewControllerr.WebsiteCTA" = "वेबसाइट";
+
+"ExtensionViewController.FallbackDescription" = "आप सफ़ारी एक्सटेंशन की प्राथमिकताओं में Convusic के एक्सटेंशन को चालू कर सकते हैं।";
+
+"ExtensionViewController.EnabledDescription" = "Convusic का एक्सटेंशन चालू है। आप इसे सफ़ारी एक्सटेंशन की प्राथमिकताओं में इसे बंद कर सकते हैं।";
+
+"ExtensionViewController.DisabledDescription" = "Convusic का एक्सटेंशन अभी बंद है। आप इसे सफ़ारी एक्सटेंशन प्राथमिकताओं में चालू कर सकते हैं।";
+
+"ExtensionViewController.SafariCTA" = "छोड़ें और सफ़ारी एक्सटेंशन प्राथमिकताएं खोलें";
+
+"MusicService.Errors.SongLink.ArtistPages" = "%@ वाले कलाकार पृष्ठों का समर्थन Convusic नहीं करता";
+
+"MusicService.Errors.SongLink.Unknown" = "अज्ञात %@ त्रुटि";
+
+"MusicService.Errors.AppleMusic.JWT" = "Apple म्यूज़िक सत्यापन विफल";
+
+"MusicService.Errors.AppleMusic.Unknown" = "अज्ञात Apple म्यूज़िक त्रुटि";
+
+"MusicService.Errors.AppleMusic.Playlist" = "Apple म्यूज़िक वाले प्लेलिस्टों का समर्थन Convusic नहीं करता";
+
+"MusicService.Errors.Spotify.Authentication" = "Spotify सत्यापन त्रुटि";
+
+"MusicService.Errors.Spotify.Unknown" = "अज्ञात Spotify त्रुटि";
+
+"MusicService.Errors.Spotify.Playlist" = "Spotify वाले प्लेलिस्टों का समर्थन Convusic नहीं करता";
+
+"MusicService.Errors.Generic.Unidentifiable" = "इस संगीत सामग्री की पहचान नहीं हो सकी";
+
+"MusicService.Errors.Generic.NoArtist" = "%2$@ पर %1$@ नहीं मिला";
+
+"MusicService.Errors.Generic.NoAlbum" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.NoTrack" = "Couldn't find %1$@ by %2$@ on %3$@";
+
+"MusicService.Errors.Generic.Unknown" = "अज्ञात कनवर्ज़न विफल";
